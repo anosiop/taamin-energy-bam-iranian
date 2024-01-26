@@ -1,0 +1,1694 @@
+# Translation of Themes - Kahuna in Persian
+# This file is distributed under the same license as the Themes - Kahuna package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 12:04:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fa\n"
+"Project-Id-Version: Themes - Kahuna\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Kahuna"
+msgstr "قالب Kahuna"
+
+#: includes/core.php:465 searchform.php:14
+msgid "Search"
+msgstr "جستجو"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "جستجو برای :"
+
+#: includes/core.php:449
+msgid "Page"
+msgstr "صفحه"
+
+#: includes/loop.php:85
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: includes/loop.php:158
+msgid "Date"
+msgstr "تاریخ"
+
+#: searchform.php:12
+msgid "To search type and press enter"
+msgstr "برای جستجو عبارت را تایپ کرده و اینتر بزنید"
+
+#: includes/setup.php:57 sidebar-left.php:18
+msgid "Left Sidebar"
+msgstr "سایدبار چپ"
+
+#: sidebar-left.php:22 sidebar-right.php:22
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Customizations</a>."
+msgstr "برای مخفی شدن این سایدبار، چیدمان سایت را از طریق <a href=\"%s\">سفارشی سازی پوسته</a> تعویض کنید."
+
+#: sidebar-right.php:18
+msgid "Right Sidebar"
+msgstr "سایدبار راست"
+
+#: includes/core.php:445
+msgid "Posts tagged"
+msgstr "پست های تگ شده"
+
+#: includes/core.php:446
+msgid "Articles posted by"
+msgstr "مقالات ارسال شده توسط"
+
+#: includes/core.php:448
+msgid "Post format"
+msgstr "ساختار پست"
+
+#: includes/loop.php:103
+msgid "Author"
+msgstr "ناشر"
+
+#: includes/loop.php:109 includes/loop.php:134
+msgid "View all posts by %s"
+msgstr "مشاهده تمام پست های%s"
+
+#: includes/loop.php:182
+msgid "Tagged"
+msgstr "برچسب زده شده"
+
+#: includes/loop.php:205
+msgid "Featured"
+msgstr "ویژه"
+
+#: includes/loop.php:256
+msgid "Older posts"
+msgstr "پست های قدیمی تر"
+
+#: includes/loop.php:260
+msgid "Newer posts"
+msgstr "پست های جدیدتر"
+
+#: includes/meta.php:18
+msgid "Static Page Layout"
+msgstr "چیدمان صفحه ی ایستا"
+
+#: includes/meta.php:50
+msgid "Default Theme Layout"
+msgstr "چیدمان پیش فرض پوسته"
+
+#: includes/setup.php:56
+msgid "Primary Navigation"
+msgstr "ناوبری اصلی"
+
+#: includes/setup.php:58
+msgid "Footer Navigation"
+msgstr "ناوبری فوتر"
+
+#: includes/setup.php:127
+msgid "cactus"
+msgstr "کاکتوس"
+
+#: includes/setup.php:132
+msgid "intersection"
+msgstr "تقاطع"
+
+#: includes/setup.php:137
+msgid "creative"
+msgstr "خلاقانه"
+
+#: cryout/prototypes.php:828
+msgid "Skip to content"
+msgstr "رد شدن از محتوا"
+
+#: includes/tgmpa.php:61
+msgid "Kahuna Suggested Plugins"
+msgstr "پلاگین پیشنهادی Kahuna"
+
+#: includes/tgmpa.php:62
+msgid "Kahuna Addons"
+msgstr "افزودنی های Kahuna"
+
+#: includes/tgmpa.php:119
+msgid "Return to Suggested Plugins Installer"
+msgstr "بازگشت به نصب کننده پیشنهادی افزونه ها"
+
+#: sidebar-left.php:21 sidebar-right.php:21
+msgid "You currently have no widgets set in this sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "در حال حاضر هیچ ویجتی در این سایدبار وجود ندارد. می توانید از طریق <a href=\"%s\">پیشخوان</a> ابزارک اضافه کنید."
+
+#: includes/setup.php:122
+msgid "lunch"
+msgstr "اجرا"
+
+#: includes/core.php:442
+msgid "Home"
+msgstr "خانه"
+
+#: includes/comments.php:119 includes/comments.php:120
+msgid "Name"
+msgstr "نام"
+
+#: includes/comments.php:141 includes/comments.php:142
+msgctxt "noun"
+msgid "Comment"
+msgstr "دیدگاه"
+
+#: includes/comments.php:127 includes/comments.php:128
+msgid "Website"
+msgstr "سایت"
+
+#: includes/comments.php:35
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه  شما در انتظار بررسی است."
+
+#: cryout/tgmpa-class.php:2726
+msgid "Activate"
+msgstr "فعال کردن"
+
+#: cryout/tgmpa-class.php:2717
+msgid "Install"
+msgstr "نصب"
+
+#: cryout/tgmpa-class.php:2553
+msgid "Version"
+msgstr "نسخه"
+
+#: cryout/tgmpa-class.php:2547
+msgid "Plugin"
+msgstr "افزونه"
+
+#: cryout/tgmpa-class.php:2498
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: cryout/tgmpa-class.php:2321
+msgid "Active"
+msgstr "فعال"
+
+#: cryout/tgmpa-class.php:2273
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: cryout/tgmpa-class.php:2292
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: cryout/tgmpa-class.php:387 cryout/tgmpa-class.php:3159
+#: includes/tgmpa.php:120
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: 404.php:15 includes/core.php:227 includes/core.php:447
+msgid "Not Found"
+msgstr "پیدا نشد"
+
+#: admin/main.php:127
+msgid "Reset to Defaults"
+msgstr "بازنشانی به حالت پیش فرض"
+
+#: admin/main.php:94
+msgid "Kahuna settings have been reset successfully."
+msgstr "تنظیمات Kahuna با موفقیت بازنشانی شد."
+
+#: admin/options.php:217
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/options.php:196 admin/options.php:239 admin/options.php:2474
+msgid "Header"
+msgstr "سربرگ"
+
+#: admin/options.php:199
+msgid "Colors"
+msgstr "رنگ ها"
+
+#: admin/options.php:198
+msgid "General"
+msgstr "عمومی"
+
+#: admin/options.php:167 admin/options.php:550
+msgid "Header Image"
+msgstr "تصویر سربرگ"
+
+#: admin/options.php:160
+msgid "Background Settings."
+msgstr "تنظیمات پس زمینه."
+
+#: admin/options.php:159
+msgid "Background"
+msgstr "پس زمینه"
+
+#: admin/options.php:201
+msgid "Post Information"
+msgstr "اطلاعات نوشته"
+
+#: admin/options.php:234
+msgid "Content Images"
+msgstr "تصاویر محتوا"
+
+#: admin/options.php:215 admin/options.php:238
+msgid "Content"
+msgstr "محتوا"
+
+#: admin/options.php:246 includes/comments.php:87
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+#: admin/options.php:342
+msgid "Three columns"
+msgstr "سه ستون"
+
+#: admin/options.php:338
+msgid "Two columns"
+msgstr "دو ستون"
+
+#: admin/options.php:334
+msgid "One column"
+msgstr "یک ستون"
+
+#: admin/options.php:315
+msgid "Left Sidebar Width"
+msgstr "عرض ستون کناری سمت چپ"
+
+#: admin/options.php:322
+msgid "Right Sidebar Width"
+msgstr "عرض ستون کناری سمت راست"
+
+#: admin/options.php:302
+msgid "Wide"
+msgstr "عریض"
+
+#: admin/options.php:377 admin/options.php:433 admin/options.php:502
+#: admin/options.php:1310
+msgid "Center"
+msgstr "وسط"
+
+#: admin/options.php:377 admin/options.php:1310
+msgid "Default"
+msgstr "پیش فرض"
+
+#: admin/options.php:369
+msgid "4 Columns"
+msgstr "4 ستون"
+
+#: admin/options.php:368
+msgid "3 Columns"
+msgstr "3 ستون"
+
+#: admin/options.php:367
+msgid "2 Columns"
+msgstr "2 ستون"
+
+#: admin/options.php:366
+msgid "1 Column"
+msgstr "یک ستون"
+
+#: admin/options.php:365
+msgid "All in a row"
+msgstr "همه در یک سطر"
+
+#: admin/options.php:512
+msgid "Enabled"
+msgstr "فعال شده"
+
+#: admin/options.php:425
+msgid "Normal"
+msgstr "معمولی"
+
+#: admin/options.php:408
+msgid "Fixed Menu"
+msgstr "منوی ثابت"
+
+#: admin/options.php:442
+msgid "Empty"
+msgstr "خالی"
+
+#: admin/options.php:442
+msgid "Logo & Site Title"
+msgstr "آرم  و عنوان سایت"
+
+#: admin/options.php:442
+msgid "Logo"
+msgstr "نشان"
+
+#: admin/options.php:442 admin/options.php:1095
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: admin/options.php:433 admin/options.php:502 admin/options.php:1310
+msgid "Right"
+msgstr "راست"
+
+#: admin/options.php:433 admin/options.php:502 admin/options.php:1310
+msgid "Left"
+msgstr "چپ"
+
+#: admin/options.php:426
+msgid "Menu Position"
+msgstr "موقعیت منو"
+
+#: admin/options.php:614 admin/options.php:630
+msgid "Link"
+msgstr "پیوند"
+
+#: admin/options.php:590
+msgid "Title"
+msgstr "عنوان"
+
+#: admin/options.php:933 includes/setup.php:161
+msgid "Site Text"
+msgstr "متن سایت"
+
+#: admin/options.php:927
+msgid "Site Background"
+msgstr "پس زمینه سایت"
+
+#: admin/options.php:1007
+msgid "Menu Text"
+msgstr "متن منو"
+
+#: admin/options.php:1013
+msgid "Submenu Text"
+msgstr "متن زیر منو"
+
+#: admin/options.php:1308
+msgid "Text Alignment"
+msgstr "ترازبندی متن"
+
+#: admin/options.php:1301
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: admin/options.php:1213
+msgid "Post/Page Titles"
+msgstr "عنوان  نوشته / برگه"
+
+#: admin/options.php:1154
+msgid "Widget Title"
+msgstr "عنوان ابزارک"
+
+#: admin/options.php:1124
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: admin/options.php:1316
+msgid "Paragraph Spacing"
+msgstr "فاصله پاراگراف"
+
+#: admin/options.php:1371
+msgid "Tables Style"
+msgstr "سبک جداول"
+
+#: admin/options.php:1357
+msgid "Always Visible"
+msgstr "همیشه قابل مشاهده"
+
+#: admin/options.php:1786
+msgid "Enable"
+msgstr "فعال"
+
+#: admin/options.php:1357
+msgid "Hide on Categories"
+msgstr "پنهان کردن در دسته ها"
+
+#: admin/options.php:1357
+msgid "Always Hidden"
+msgstr "همیشه مخفی"
+
+#: admin/options.php:1402
+msgid "Shadow"
+msgstr "سایه"
+
+#: admin/options.php:1490
+msgid "Display Date"
+msgstr "نمایش تاریخ"
+
+#: admin/options.php:1496
+msgid "Display Time"
+msgstr "نمایش زمان"
+
+#: admin/options.php:1484
+msgid "Display Author"
+msgstr "نمایش نویسنده"
+
+#: admin/options.php:1474
+msgid "With Background"
+msgstr "با پس زمینه"
+
+#: admin/options.php:1416
+msgid "Zoom Out"
+msgstr "کوچک نمایی"
+
+#: admin/options.php:1416
+msgid "Zoom In"
+msgstr "بزرگنمایی"
+
+#: admin/options.php:1425
+msgid "Add Search to Main Menu"
+msgstr "اضافه کردن جستجو به منوی اصلی"
+
+#: admin/options.php:1598
+msgid "Show"
+msgstr "نمایش"
+
+#: admin/options.php:1508
+msgid "Display Tags"
+msgstr "نمایش برچسب‌ها"
+
+#: admin/options.php:1514
+msgid "Display Comments"
+msgstr "نمایش دیدگاه‌ها"
+
+#: admin/options.php:1598
+msgid "Hide in pages"
+msgstr "پنهان کردن در برگه‌ها"
+
+#: admin/options.php:1598
+msgid "Hide in posts"
+msgstr "پنهان کردن در نوشته‌ها"
+
+#: admin/options.php:1502
+msgid "Display Category"
+msgstr "نمایش دسته بندی"
+
+#: admin/options.php:1674
+msgid "Right Bottom"
+msgstr "سمت راست پایین "
+
+#: admin/options.php:1674
+msgid "Right Center"
+msgstr "سمت راست وسط"
+
+#: admin/options.php:1674
+msgid "Right Top"
+msgstr "سمت راست بالا"
+
+#: admin/options.php:1674
+msgid "Left Bottom"
+msgstr "سمت چپ پایین"
+
+#: admin/options.php:1674
+msgid "Left Center"
+msgstr "سمت چپ وسط"
+
+#: admin/options.php:1674
+msgid "Left Top"
+msgstr "سمت چپ بالا "
+
+#: admin/options.php:1674
+msgid "Center Center"
+msgstr "وسط وسط"
+
+#: cryout/tgmpa-class.php:386 cryout/tgmpa-class.php:827
+#: cryout/tgmpa-class.php:2533 cryout/tgmpa-class.php:3580
+msgid "Return to the Dashboard"
+msgstr "بازگشت به پیش‌خوان"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "امکان ارسال دیدگاه بسته شده است."
+
+#: 404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "با عرض پوزش، اما صفحه ی درخواستی یافت نشد شاید جستجو به شما کمک کند."
+
+#: header.php:50
+msgid "Primary Menu"
+msgstr "منو اصلی"
+
+#: image.php:31
+msgid "pixels"
+msgstr "پیکسل"
+
+#: image.php:38
+msgid "Published in"
+msgstr "تهیه شده در"
+
+#: image.php:65
+msgid "Previous image"
+msgstr "تصویر قبلی"
+
+#: image.php:66
+msgid "Next image"
+msgstr "تصویر بعدی"
+
+#: includes/core.php:224 search.php:18
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای : %s"
+
+#: content/content-page.php:34 content/content.php:40 single.php:39
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: admin/main.php:65
+msgid "Reset Kahuna Settings to Defaults?"
+msgstr "تنظیمات به حالت پیشفرض بازگردانده شود؟"
+
+#: admin/main.php:73
+msgid "Kahuna Theme"
+msgstr "پوسته Kahuna"
+
+#: admin/main.php:82
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "متاسفیم شما برای دسترسی به این موضوع مجاز نیستید ."
+
+#: admin/options.php:127
+msgid "Read the Docs"
+msgstr "خواندن اسناد"
+
+#: admin/options.php:133
+msgid "Browse the Forum"
+msgstr "مرور انجمن"
+
+#: admin/options.php:151
+msgid "Manage Theme Settings"
+msgstr "تنظیمات مدیریت پوسته"
+
+#: admin/options.php:145
+msgid "Rate %s on WordPress.org"
+msgstr "به %s در وردپرس رتبه دهید"
+
+#: admin/options.php:168
+msgid "Header Image Settings."
+msgstr "تنظیمات تصویر هدر."
+
+#: admin/options.php:175 admin/options.php:194 admin/options.php:463
+msgid "Site Identity"
+msgstr "شناسه سایت"
+
+#: admin/options.php:197 admin/options.php:241 admin/options.php:510
+msgid "Landing Page"
+msgstr "صفحه فرود"
+
+#: admin/options.php:200
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: admin/options.php:195
+msgid "Layout"
+msgstr "طرح"
+
+#: admin/options.php:218 admin/options.php:544
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: admin/options.php:219
+msgid "Featured Icon Blocks"
+msgstr "آیکون بلاک ها ویژه"
+
+#: admin/options.php:222 admin/options.php:1049
+msgid "Text Areas"
+msgstr "منطقه های متن"
+
+#: admin/options.php:225 admin/options.php:1064
+msgid "General Font"
+msgstr "فونت های عمومی"
+
+#: admin/options.php:226
+msgid "Header Fonts"
+msgstr "فونت های هدر"
+
+#: admin/options.php:228
+msgid "Widget Fonts"
+msgstr "فونت های ابزارک"
+
+#: admin/options.php:227
+msgid "Content Fonts"
+msgstr "فونت های محتوا"
+
+#: admin/options.php:229
+msgid "Formatting"
+msgstr "فرمت کردن"
+
+#: admin/options.php:231
+msgid "Structure"
+msgstr "ساختار"
+
+#: admin/options.php:232
+msgid "Decorations"
+msgstr "دکوراسیون"
+
+#: admin/options.php:235
+msgid "Search Box Locations"
+msgstr "مکان های باکس جستجو"
+
+#: admin/options.php:236 includes/setup.php:59
+msgid "Social Icons"
+msgstr "آیکون های اجتماعی"
+
+#: admin/options.php:240 admin/options.php:2452
+msgid "Footer"
+msgstr "فوتر"
+
+#: admin/options.php:243
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: admin/options.php:244
+msgid "Meta Information"
+msgstr "اطلاعات متا"
+
+#: admin/options.php:233
+msgid "Header Titles"
+msgstr "عناوین هدر"
+
+#: admin/options.php:245
+msgid "Excerpts"
+msgstr "خلاصه"
+
+#: admin/options.php:248
+msgid "Miscellaneous"
+msgstr "متفرقه"
+
+#: admin/options.php:268
+msgid "Main Layout"
+msgstr "طرح اصلی"
+
+#: admin/options.php:271
+msgid "One column (no sidebars)"
+msgstr "یک ستونه ( بدون سایدبار )"
+
+#: admin/options.php:275
+msgid "Two columns, sidebar on the right"
+msgstr "دو ستونه، سایدبار در راست"
+
+#: admin/options.php:279
+msgid "Two columns, sidebar on the left"
+msgstr "دو ستونه، سایدبار در چپ"
+
+#: admin/options.php:283
+msgid "Three columns, sidebars on the right"
+msgstr "سه ستونه، سایدبار در راست"
+
+#: admin/options.php:287
+msgid "Three columns, sidebars on the left"
+msgstr "سه ستونه ، سایدبار ها در چپ"
+
+#: admin/options.php:291
+msgid "Three columns, one sidebar on each side"
+msgstr "سه ستونه،هر طرف یک سایدبار"
+
+#: admin/options.php:300
+msgid "Theme alignment"
+msgstr "همترازی متن"
+
+#: admin/options.php:302 admin/options.php:835
+msgid "Boxed"
+msgstr "جعبه شده"
+
+#: admin/options.php:331
+msgid "Posts Layout"
+msgstr "طرح پست ها"
+
+#: admin/options.php:351
+msgid "Post/page padding"
+msgstr "پدینگ پست/صفحه"
+
+#: admin/options.php:362
+msgid "Footer Widgets Columns"
+msgstr "ستون های ابزارک های فوتر"
+
+#: admin/options.php:378
+msgid "Footer Widgets Alignment"
+msgstr "ترازبندی ویجت های فوتر"
+
+#: admin/options.php:418
+msgid "Header/Menu Height"
+msgstr "ارتفاع هدر/منو"
+
+#: admin/options.php:528 admin/options.php:551 admin/options.php:659
+#: admin/options.php:695 admin/options.php:696 admin/options.php:714
+#: admin/options.php:715 admin/options.php:733 admin/options.php:734
+#: admin/options.php:752 admin/options.php:753 admin/options.php:783
+#: admin/options.php:784 admin/options.php:885 admin/options.php:886
+#: admin/options.php:893 admin/options.php:894 admin/options.php:901
+#: admin/options.php:902 admin/options.php:909 admin/options.php:910
+#: admin/options.php:1365
+msgid "Disabled"
+msgstr "غیر فعال"
+
+#: admin/options.php:425
+msgid "Over header image"
+msgstr "تصویر روی هدر"
+
+#: admin/options.php:479 admin/options.php:1658 admin/options.php:1683
+msgid "Changing this value may require to recreate your thumbnails."
+msgstr "تغییر این مقدار ممکن است دوباره سازی بند انگشتی های شما را نیاز داشته باشد."
+
+#: admin/options.php:486 admin/options.php:1665
+msgid "Cropped"
+msgstr "بریده شده"
+
+#: admin/options.php:487
+msgid "Header Image Behaviour"
+msgstr "رفتار تصویر هدر"
+
+#: admin/options.php:440
+msgid "Site Header Content"
+msgstr "محتوا هدر سایت"
+
+#: admin/options.php:448
+msgid "Show Tagline"
+msgstr "نمایش برچسب"
+
+#: admin/options.php:454
+msgid "Logo Image"
+msgstr "تصویر لوگو"
+
+#: admin/options.php:493
+msgid "Header Widget Width"
+msgstr "عرض ابزارک هدر"
+
+#: admin/options.php:500
+msgid "Header Widget Alignment"
+msgstr "همترازی ابزارک هدر"
+
+#: admin/options.php:512
+msgid "Disabled (use WordPress homepage)"
+msgstr "غیرفعال(از صفحه اصلی وردپرس استفاده شود)"
+
+#: admin/options.php:520
+msgid "To activate the Landing Page, make sure to set the WordPress <strong>Front Page displays</strong> option to %s"
+msgstr "برای فعال کردن صفحه فرود ، مطمئن برای تنظیم گزینه وردپرس <strong>جلو صفحه نمایش</strong> برای %s را"
+
+#: admin/options.php:520
+msgid "use a static page"
+msgstr "استفاده از صفحه ایستا"
+
+#: admin/options.php:223 admin/options.php:526 admin/options.php:1055
+msgid "Featured Content"
+msgstr "محتوای ویژه"
+
+#: admin/options.php:528
+msgid "Static Page"
+msgstr "صفحه ایستا"
+
+#: admin/options.php:528 admin/options.php:1523
+msgid "Posts"
+msgstr "پست ها"
+
+#: admin/options.php:535
+msgid "More Posts Label"
+msgstr "برچسب پست های بیشتر"
+
+#: admin/options.php:547 admin/options.php:579
+msgid "Serious Slider"
+msgstr "اسلایدر Serious"
+
+#: admin/options.php:548
+msgid "Use Shortcode"
+msgstr "استفاده از کد های کوتاه"
+
+#: admin/options.php:553
+msgid "To create an advanced slider, use our <a href='%s' target='_blank'>Serious Slider</a> plugin or any other slider plugin."
+msgstr "برای ایجاد نوار لغزنده پیشرفته ما <a href='%s' target='_blank'>اسلایدر Serious</a> پلاگین یا هر پلاگین اسلایدر دیگری استفاده کنید."
+
+#: admin/options.php:565
+msgid "Slider Link"
+msgstr "لینک اسلایدر"
+
+#: admin/options.php:572
+msgid "Shortcode"
+msgstr "کد های کوتاه"
+
+#: admin/options.php:573
+msgid "Enter shortcode provided by slider plugin. The plugin will be responsible for the slider's appearance."
+msgstr "کد کوتاه ارائه شده توسط افزونه را وارد نمایید . افزونه مسئولیت ظاهر اسلایدر را خواهد داشت."
+
+#: admin/options.php:581
+msgid " - Please install, activate or update Serious Slider plugin - "
+msgstr " طفا افزونه Serious Slider  را نصب ، فعال یا بروزرسانی نمایید "
+
+#: admin/options.php:581
+msgid " - No sliders defined - "
+msgstr " هیچ اسلایدری تعریف نشده است"
+
+#: admin/options.php:582
+msgid "Select the desired slider from the list. Sliders can be administered in the dashboard."
+msgstr "اسلایدر ار از لیست انتخاب نمایید . اسلایدر ها می توانند از پیشخوان مدیریت شوند."
+
+#: admin/options.php:598 admin/options.php:606 admin/options.php:622
+msgid "Text"
+msgstr "تکست"
+
+#: admin/options.php:604 admin/options.php:620
+msgid "CTA Button"
+msgstr "دکمه CTA"
+
+#: admin/options.php:638 admin/options.php:763
+msgid "Section Title"
+msgstr "بخش عنوان"
+
+#: admin/options.php:645 admin/options.php:770
+msgid "Section Description"
+msgstr "بخش توضیحات"
+
+#: admin/options.php:685 admin/options.php:704 admin/options.php:723
+#: admin/options.php:742
+msgid "Block %d"
+msgstr "بلاک %d"
+
+#: admin/options.php:657
+msgid "Blocks Content"
+msgstr "بلاک محتوا"
+
+#: admin/options.php:659 admin/options.php:1551 admin/options.php:1567
+msgid "Excerpt"
+msgstr "خلاصه"
+
+#: admin/options.php:659
+msgid "Full Content"
+msgstr "تمامی محتوا"
+
+#: admin/options.php:673
+msgid "Make icons clickable (linking to their respective pages)."
+msgstr "آیکن ها را لینک دار کن."
+
+#: admin/options.php:782
+msgid "Boxes Content"
+msgstr "جعبه های محتوا"
+
+#: admin/options.php:783 admin/options.php:784
+msgid "All Categories"
+msgstr "تمامی دسته بندی ها"
+
+#: admin/options.php:798
+msgid "Number of Boxes"
+msgstr "شماره جعبه ها"
+
+#: admin/options.php:805
+msgid "Boxes Per Row"
+msgstr "جعبه بر ردیف"
+
+#: admin/options.php:821
+msgid "Box Height"
+msgstr "ارتفاع جعبه ها"
+
+#: admin/options.php:833
+msgid "Box Layout"
+msgstr "طرح جعبه ها"
+
+#: admin/options.php:835
+msgid "Full width"
+msgstr "تمام عرض"
+
+#: admin/options.php:842
+msgid "Box Stacking"
+msgstr "جعبه انباشته"
+
+#: admin/options.php:844
+msgid "Joined"
+msgstr "پیوسته"
+
+#: admin/options.php:844
+msgid "Apart"
+msgstr "جدا"
+
+#: admin/options.php:851
+msgid "Box Appearance"
+msgstr "ظاهر جعبه"
+
+#: admin/options.php:853
+msgid "Animated"
+msgstr "متحرک"
+
+#: admin/options.php:853 admin/options.php:1349
+msgid "Static"
+msgstr "ایستا"
+
+#: admin/options.php:666 admin/options.php:865
+msgid "Read More Button"
+msgstr "دکمه نمایش بیشتر"
+
+#: admin/options.php:875
+msgid "Content Length (words)"
+msgstr "طول محتوا ( کلمات )"
+
+#: admin/options.php:884 admin/options.php:892 admin/options.php:900
+#: admin/options.php:908
+msgid "Text Area %d"
+msgstr "مکان متن %d"
+
+#: admin/options.php:945 includes/setup.php:166
+msgid "Content Background"
+msgstr "پس زمینه محتوا"
+
+#: admin/options.php:951
+msgid "Left Sidebar Background"
+msgstr "پس زمینه سایدبار چپ"
+
+#: admin/options.php:957
+msgid "Right Sidebar Background"
+msgstr "پس زمینه ساید بار راست"
+
+#: admin/options.php:967
+msgid "Overlay Color"
+msgstr "رنگ Overlay"
+
+#: admin/options.php:1001
+msgid "Header Background"
+msgstr "پس زمینه هدر"
+
+#: admin/options.php:1019
+msgid "Submenu Background"
+msgstr "پس زمینه زیرمنو"
+
+#: admin/options.php:1025
+msgid "Footer Background"
+msgstr "پس زمینه فوتر"
+
+#: admin/options.php:1031
+msgid "Footer Text"
+msgstr "متن فوتر"
+
+#: admin/options.php:988
+msgid "Primary Accent"
+msgstr "تاکید اصلی"
+
+#: admin/options.php:994
+msgid "Secondary Accent"
+msgstr "تاکید ثانویه"
+
+#: admin/options.php:1088 admin/options.php:1118 admin/options.php:1147
+#: admin/options.php:1177 admin/options.php:1206 admin/options.php:1236
+#: admin/options.php:1265 admin/options.php:1294
+msgid "or enter Google Font Identifier"
+msgstr "یا شناسه فونت گوگل را وارد نمایید"
+
+#: admin/options.php:1183
+msgid "Widget Content"
+msgstr "ابزارک محتوا"
+
+#: admin/options.php:1242
+msgid "Post metas"
+msgstr "پست متا"
+
+#: admin/options.php:1271
+msgid "Headings"
+msgstr "عناوین"
+
+#: admin/options.php:1310
+msgid "Justify"
+msgstr "جاستیفای"
+
+#: admin/options.php:1323
+msgid "Paragraph Indentation"
+msgstr "فاصله پاراگراف ها"
+
+#: admin/options.php:1333
+msgid "Breadcrumbs"
+msgstr "موقعیت صفحات"
+
+#: admin/options.php:1349 admin/options.php:1786
+msgid "Disable"
+msgstr "غیر فعال"
+
+#: admin/options.php:1340
+msgid "Numbered Pagination"
+msgstr "صفحه بندی شماره گذاری شده"
+
+#: admin/options.php:1347
+msgid "Single Post Prev/Next Navigation"
+msgstr "ناوبری قبل/بعد پست یکتا"
+
+#: admin/options.php:1355
+msgid "Page/Category Titles"
+msgstr "عناوین صفحه/دسته بندی"
+
+#: admin/options.php:1357
+msgid "Hide on Pages"
+msgstr "مخفی در صفحات"
+
+#: admin/options.php:1363
+msgid "Back to Top Button"
+msgstr "بازگشت به دکمه بالا"
+
+#: admin/options.php:1365
+msgid "Bottom of page"
+msgstr "پایین صفحه"
+
+#: admin/options.php:1365
+msgid "In footer"
+msgstr "در فوتر"
+
+#: admin/options.php:1373
+msgid "No border"
+msgstr "بدون حاشیه"
+
+#: admin/options.php:1373
+msgid "Clean"
+msgstr "پاک"
+
+#: admin/options.php:1373
+msgid "Stripped"
+msgstr "تکمیل نشده"
+
+#: admin/options.php:1373
+msgid "Bordered"
+msgstr "حاشیه دار"
+
+#: admin/options.php:1379
+msgid "Tags Cloud Appearance"
+msgstr "شکل ظاهری برچسب های ابر"
+
+#: admin/options.php:1381
+msgid "Size Emphasis"
+msgstr "تاکید اندازه"
+
+#: admin/options.php:1381
+msgid "Uniform Boxes"
+msgstr "جعبه های یکسان"
+
+#: admin/options.php:1387
+msgid "Custom Footer Text"
+msgstr "متن سفارشی فوتر"
+
+#: admin/options.php:1396
+msgid "Border"
+msgstr "حاشیه"
+
+#: admin/options.php:1408
+msgid "Rounded Corners"
+msgstr "گوشه گرد شده"
+
+#: admin/options.php:1409
+msgid "These decorations apply to certain theme elements."
+msgstr "این دکوراسیون برای عناصر خاصی اعمال می شود."
+
+#: admin/options.php:1414
+msgid "Article Animation on Scroll"
+msgstr "مطلب متحرک در اسکرول"
+
+#: admin/options.php:1416
+msgid "None"
+msgstr "هیچ"
+
+#: admin/options.php:1416
+msgid "Fade"
+msgstr "محو شدن"
+
+#: admin/options.php:1416
+msgid "Slide"
+msgstr "اسلاید"
+
+#: admin/options.php:1431
+msgid "Add Search to Footer Menu"
+msgstr "افزودن جستجو به منو فوتر"
+
+#: admin/options.php:1440
+msgid "Post Images"
+msgstr "تصاویر پست"
+
+#: admin/options.php:1443
+msgid "No Styling"
+msgstr "بدون استایل"
+
+#: admin/options.php:1447 admin/options.php:1451 admin/options.php:1455
+#: admin/options.php:1459 admin/options.php:1463
+msgid "Style %d"
+msgstr "استایل %d"
+
+#: admin/options.php:1472
+msgid "Post Captions"
+msgstr "کپشن پست"
+
+#: admin/options.php:1474
+msgid "Plain"
+msgstr "ساده"
+
+#: admin/options.php:1474
+msgid "With Border"
+msgstr "با حاشیه"
+
+#: admin/options.php:1515
+msgid "Choose meta information to show on posts."
+msgstr "اطلاعات متا برای نمایش در پست ها را انتخاب کنید."
+
+#: admin/options.php:1529
+msgid "Pages"
+msgstr "صفحات"
+
+#: admin/options.php:1535
+msgid "Archive pages"
+msgstr "آرشیو صفحات"
+
+#: admin/options.php:1541
+msgid "Home page"
+msgstr "صفحه اصلی"
+
+#: admin/options.php:1596
+msgid "'Comments Are Closed' Text"
+msgstr "متن نظرات بسته شدند"
+
+#: admin/options.php:1598
+msgid "Hide everywhere"
+msgstr "مخفی سازی در همه جا"
+
+#: admin/options.php:1604
+msgid "Comment Date Format"
+msgstr "فرمت تاریخ نظرات"
+
+#: admin/options.php:1606
+msgid "Specific"
+msgstr "خاص"
+
+#: admin/options.php:1612
+msgid "Comment Field Label"
+msgstr "برچسب فیلد نظر"
+
+#: admin/options.php:1614
+msgid "Labels"
+msgstr "برچسب ها"
+
+#: admin/options.php:1615
+msgid "Change to labels for better compatibility with comment-related plugins."
+msgstr "به برچسب برای سازگاری بهتر با افزونه های نظر های مرتبط تغییر دهید."
+
+#: admin/options.php:1549
+msgid "Standard Posts On Homepage"
+msgstr "پست های استاندارد در صفحه اصلی"
+
+#: admin/options.php:1551 admin/options.php:1559 admin/options.php:1567
+msgid "Full Post"
+msgstr "تمام پست"
+
+#: admin/options.php:1552
+msgid "Post formats always display full posts."
+msgstr "فرمت های پست همیشه پست های کامل را نمایش می دهند."
+
+#: admin/options.php:1557
+msgid "Sticky Posts on Homepage"
+msgstr "پست ها چسبان در صفحه اصلی"
+
+#: admin/options.php:1565
+msgid "Standard Posts in Categories/Archives"
+msgstr "پست های استاندارد در دسته بندی / آرشیو"
+
+#: admin/options.php:1576
+msgid "Excerpt Length (words)"
+msgstr "طول کلمات خلاصه"
+
+#: admin/options.php:1588
+msgid "Continue Reading Label"
+msgstr "لیبل ادامه مطلب"
+
+#: admin/options.php:1632
+msgid "Featured Images"
+msgstr "تصاویر شاخص"
+
+#: admin/options.php:1639
+msgid "Auto Select Image From Content"
+msgstr "انتخاب خودکار تصویر از محتوا"
+
+#: admin/options.php:1666
+msgid "Featured Image Behaviour"
+msgstr "رفتار تصویر شاخص"
+
+#: admin/options.php:1672
+msgid "Featured Image Crop Position"
+msgstr "موقعیت برش تصویر شاخص"
+
+#: admin/options.php:1674
+msgid "Center Top"
+msgstr "بالا وسط"
+
+#: admin/options.php:1674
+msgid "Center Bottom"
+msgstr "پایین وسط"
+
+#: admin/options.php:1690
+msgid "Use Featured Images in Header"
+msgstr "استفاده از تصاویر شاخص در هدر"
+
+#: admin/options.php:1700
+msgid "Display in Header"
+msgstr "نمایش در هدر"
+
+#: admin/options.php:1706
+msgid "Display in Footer"
+msgstr "نمایش در فوتر"
+
+#: admin/options.php:1712
+msgid "Display in Left Sidebar"
+msgstr "نمایش در سایدبار چپ"
+
+#: admin/options.php:1718
+msgid "Display in Right Sidebar"
+msgstr "نمایش در ساید بار راست"
+
+#: admin/options.php:1735
+msgid "Masonry"
+msgstr "منسوری"
+
+#: admin/options.php:1743
+msgid "JS Defer loading"
+msgstr "بارگیری JS Defer"
+
+#: admin/options.php:1786
+msgid "Enable on mobiles"
+msgstr "فعال سازی در موبایل ها"
+
+#: admin/options.php:1752
+msgid "Autoscroll"
+msgstr "اسکرول خودکار"
+
+#: admin/options.php:1776
+msgid "Editor Styles"
+msgstr "ویرایش گر استایل ها"
+
+#: admin/options.php:1787
+msgid "<br>Only use these options to troubleshoot issues."
+msgstr "<br>تنها از این گزینه برای عیب یابی مشکلات استفاده نمایید ."
+
+#: admin/options.php:2438
+msgid "Sidebar Left"
+msgstr "سایدبار چپ"
+
+#: admin/options.php:2445
+msgid "Sidebar Right"
+msgstr "سایدبار راست"
+
+#: admin/options.php:2453
+msgid "You can configure how many columns the footer displays from the theme options"
+msgstr "شما می توانید هر تعداد ستونی که فوتر نمایش می دهد را در تنظیمات پوسته پیکربندی کنید"
+
+#: admin/options.php:2460
+msgid "Content Before"
+msgstr "قبل محتوا"
+
+#: admin/options.php:2467
+msgid "Content After"
+msgstr "بعد محتوا"
+
+#: content/user-bio.php:30
+msgid "View all posts by "
+msgstr "نمایش تمامی پست ها توسط "
+
+#: content/content-notfound.php:10
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: content/content-notfound.php:12
+msgid "No search results for: <em>%s</em>"
+msgstr "هیچ نتیجه برای <em>%s</em> یافت نشد"
+
+#: cryout/tgmpa-class.php:327
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های موردنیاز"
+
+#: cryout/tgmpa-class.php:328
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:330 includes/tgmpa.php:64
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه ها : %s"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:332 includes/tgmpa.php:66
+msgid "Updating Plugin: %s"
+msgstr "بروزرسانی افزونه : %s"
+
+#: cryout/tgmpa-class.php:333 includes/tgmpa.php:67
+msgid "Something went wrong with the plugin API."
+msgstr "برای API افزونه مشکلی پیش آمده است."
+
+#: cryout/tgmpa-class.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به نصب کننده افزونه های موردنیاز"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:390 includes/tgmpa.php:123
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "اقدامی انجام نشد. افزونه %1$s فعال است."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:392 includes/tgmpa.php:125
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "افزونه فعال نشد. نسخه بالاتر%s نیاز منده این قالب است لطفا افزونه رو بروز رسانی کنید."
+
+#. translators: 1: dashboard link.
+#: cryout/tgmpa-class.php:394 includes/tgmpa.php:127
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه افزونه ها به خوبی نصب و فعال شدند. %1$s"
+
+#: cryout/tgmpa-class.php:395 includes/tgmpa.php:128
+msgid "Dismiss this notice"
+msgstr "این هشدار را رد کنید"
+
+#: cryout/tgmpa-class.php:396 includes/tgmpa.php:129
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "یک یا چند پلاگین مورد نظر یا توصیه برای نصب، به روز رسانی یا فعال بودن وجود دارد."
+
+#: cryout/tgmpa-class.php:397 includes/tgmpa.php:130
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک با مدیر این سایت تماس بگیرید."
+
+#: cryout/tgmpa-class.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "برای سازگاری این قالب باید این افزونه را بروز کنید."
+
+#: cryout/tgmpa-class.php:523
+msgid "Update Required"
+msgstr "آپدیت ضروری"
+
+#: cryout/tgmpa-class.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "پکیج انتخابی شامل پوشه‌ای که به آن مربوط می‌شود نیست و با تغییر نام دادن کار نخواهد کرد ."
+
+#: cryout/tgmpa-class.php:934 cryout/tgmpa-class.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "لطفا با ارائه دهنده افزونه تماس بگیرید و از آن‌ها بخواهید بسته‌بندی پلاگین خود را با توجه به دستورالعمل‌های وردپرس تنظیم کنند."
+
+#: cryout/tgmpa-class.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "بسته افزونه از راه دور شامل بیش از یک فایل است، اما فایل‌ها در یک پوشه بسته‌بندی نشده‌اند."
+
+#. translators: %s: version number
+#: cryout/tgmpa-class.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: cryout/tgmpa-class.php:2295
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: cryout/tgmpa-class.php:2298
+msgid "Pre-Packaged"
+msgstr "پیش بسته بندی شده"
+
+#: cryout/tgmpa-class.php:2315
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: cryout/tgmpa-class.php:2319
+msgid "Installed But Not Activated"
+msgstr "نصب شده ولی فعال نشده است"
+
+#: cryout/tgmpa-class.php:2327
+msgid "Required Update not Available"
+msgstr "بروزرسانی های مورد نیاز در دسترس نیست"
+
+#: cryout/tgmpa-class.php:2330
+msgid "Requires Update"
+msgstr "بروزرسونی مورد نیاز"
+
+#: cryout/tgmpa-class.php:2333
+msgid "Update recommended"
+msgstr "بروزرسانی پیشنهادی"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "بروز رسانی در دسترس است <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعال سازی <span class=\"count\">(%s)</span>"
+
+#: cryout/tgmpa-class.php:2490
+msgid "Installed version:"
+msgstr "نسخه نصب شده :"
+
+#: cryout/tgmpa-class.php:2510
+msgid "Available version:"
+msgstr "نسخه در دسترس :"
+
+#: cryout/tgmpa-class.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "هیچ افزونه برای نصب ، بروزرسانی و فعال سازی وجود ندارد."
+
+#: cryout/tgmpa-class.php:2548
+msgid "Source"
+msgstr "منبع"
+
+#: cryout/tgmpa-class.php:2549
+msgid "Type"
+msgstr "نوع"
+
+#: cryout/tgmpa-class.php:2554
+msgid "Status"
+msgstr "وضعیت"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2603
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2608
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2614
+msgid "Activate %2$s"
+msgstr "فعال کردن %2$s"
+
+#: cryout/tgmpa-class.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "بروزرسانی پیام از طرف منتشر کنند افزونه :"
+
+#: cryout/tgmpa-class.php:2723
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: cryout/tgmpa-class.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ای برا ینصب انتخاب نشده است."
+
+#: cryout/tgmpa-class.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ای برای آپدیت انتخاب نشده است."
+
+#: cryout/tgmpa-class.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "هیچ افزونه ای برای نصب هم اکنون در دسترس نیست."
+
+#: cryout/tgmpa-class.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "هیچ افزونهه ای برای آپدیت هم اکنون موجود نیست."
+
+#: cryout/tgmpa-class.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ای برای فعال سازی انتخاب نشده است."
+
+#: cryout/tgmpa-class.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "هیچ افزونه ای در این زمان  در دسترس نیست برای بروزرسانی ."
+
+#: cryout/tgmpa-class.php:3158
+msgid "Plugin activation failed."
+msgstr "فعال سازی پلاگین خراب شد."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال بروزرسانی%1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: cryout/tgmpa-class.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "مشکل در نصب افزونه %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3503
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s انجام نشد."
+
+#: cryout/tgmpa-class.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "روند نصب و فعال سازی شروع شده است. این فرآیند ممکن است در برخی از میزبانها طول بکشد، بنابراین لطفا صبور باشید."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s نصب و فعال سازی با موفقیت انجام شد."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Hide Details"
+msgstr "پنهان سازی جزئیات"
+
+#: cryout/tgmpa-class.php:3510
+msgid "All installations and activations have been completed."
+msgstr "نصب و فعال سازی کامل شد."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال سازی %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "نصب افزونه اغاز شده است. لطفا شکیبا باشید."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3517
+msgid "%1$s installed successfully."
+msgstr "افزونه %1$s نصب شد."
+
+#: cryout/tgmpa-class.php:3518
+msgid "All installations have been completed."
+msgstr "تمام نصب ها کامل انجام شده اند."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب افزونه %1$s (%2$d/%3$d)"
+
+#: includes/comments.php:24
+msgid "Pingback: "
+msgstr "پینگ بک "
+
+#: includes/comments.php:24 includes/comments.php:60
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#. translators: 1: date, 2: time
+#: includes/comments.php:52
+msgid "at"
+msgstr "در"
+
+#: includes/comments.php:65
+msgid "Reply"
+msgstr "پاسخ"
+
+#: includes/comments.php:89
+msgid "Leave a comment"
+msgstr "یک نظر بنویسید"
+
+#: includes/comments.php:123 includes/comments.php:124
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/core.php:353
+msgid "Powered by"
+msgstr "قدرت گرفته از"
+
+#: includes/core.php:356
+msgid "Semantic Personal Publishing Platform"
+msgstr "پلاتفرم انتشارات شخصی معنایی"
+
+#: image.php:27
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "اندازه کامل"
+
+#: cryout/tgmpa-class.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه<span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: cryout/tgmpa-class.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: cryout/tgmpa-class.php:1121 cryout/tgmpa-class.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و  "
+
+#: cryout/tgmpa-class.php:388 cryout/tgmpa-class.php:2952
+#: includes/tgmpa.php:121
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه‌های زیر با موفقیت فعال شدند:"
+
+#: cryout/tgmpa-class.php:380 includes/tgmpa.php:114
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "در حال فعال‌سازی افزونه"
+
+#: cryout/tgmpa-class.php:375 includes/tgmpa.php:109
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "در حال بروزرسانی افزونه"
+
+#: cryout/tgmpa-class.php:370 includes/tgmpa.php:104
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "در حال نصب افزونه"
+
+#: admin/options.php:1784
+msgid "FitVids"
+msgstr "FitVids"
+
+#: admin/options.php:1582
+msgid "Excerpt Suffix"
+msgstr "پسوند تصدیق شده"
+
+#: admin/options.php:1559
+msgid "Inherit"
+msgstr "به ارث می برند"
+
+#: admin/options.php:1614
+msgid "Placeholders"
+msgstr "جانگهدارها"
+
+#: admin/options.php:1606
+msgid "Relative"
+msgstr "وابسته"
+
+#: admin/options.php:1388
+msgid "Insert custom text or basic HTML code that will appear in your footer. <br /> You can use HTML to insert links, images and special characters."
+msgstr "متن سفارشی یا کد HTML وارد کنید تا در پانوشت نمایش پیدا کند.<br />می توانید با استفاده از HTML لینک،تصویر و کارکترهای خواص وارد کنید."
+
+#: admin/options.php:1349
+msgid "Absolute"
+msgstr "مطلق"
+
+#: admin/options.php:1087
+msgid "The fonts under the <em>Preferred Theme Fonts</em> list are recommended because they have all the font weights used throughout the theme."
+msgstr "فونت‌ها زیر لیست<em>فونت‌های قالب ترجیح داده شده</em>هستند که توصیه می شود چون آن ها دارای وزن فونت بوده و در همه جای قالب استفاده شده است."
+
+#: admin/options.php:978
+msgid "Overlay Opacity"
+msgstr "تاری پوشش"
+
+#: admin/options.php:939 includes/setup.php:156
+msgid "Content Headings"
+msgstr "سربرگ‌های محتوا"
+
+#: admin/options.php:308
+msgid "Site Width"
+msgstr "عرض سایت"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "http://www.cryoutcreations.eu"
+msgstr "http://www.cryoutcreations.eu"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Cryout Creations"
+msgstr "Cryout Creations"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "http://www.cryoutcreations.eu/wordpress-themes/kahuna"
+msgstr "http://www.cryoutcreations.eu/wordpress-themes/kahuna"

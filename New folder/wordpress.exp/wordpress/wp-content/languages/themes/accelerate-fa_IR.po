@@ -1,0 +1,782 @@
+# Translation of Themes - Accelerate in Persian
+# This file is distributed under the same license as the Themes - Accelerate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-14 00:12:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Themes - Accelerate\n"
+
+#. Theme Name of the theme
+#: inc/admin/class-accelerate-admin.php:57
+#: inc/admin/class-accelerate-theme-review-notice.php:75
+#: inc/admin/class-accelerate-welcome-notice.php:46 inc/functions.php:566
+msgid "Accelerate"
+msgstr "شتاب"
+
+#: inc/functions.php:568
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "حق نشر &copy; %1$s %2$s. کلیه حقوق محفوظ است."
+
+#: inc/admin/class-accelerate-welcome-notice.php:63
+msgid "Clicking the button will install and activate the ThemeGrill demo importer plugin."
+msgstr "با کلیک بر روی دکمه، نسخه نمایشی افزونه،  نصب و فعال می شود."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-accelerate-welcome-notice.php:54
+msgid "Welcome! Thank you for choosing Accelerate! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "خوش آمدی! با تشکر از شما برای انتخاب شتاب! برای استفاده کامل از بهترین مواردی که موضوع ما می تواند ارائه دهد ، لطفاً مطمئن شوید که از %1$sصفحه خوش آمدید%2$s بازدید می کنید."
+
+#: inc/admin/class-accelerate-upgrade-notice.php:100
+msgid "Got pre sales queries?"
+msgstr "سوالات پیش از خرید دارید؟"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/admin/class-accelerate-upgrade-notice.php:74
+msgid "Howdy, %1$s! You've been using %2$s theme for a while now, and we hope you're happy with it. To access more premium features you can always upgrade to pro. All contents and settings will remain as it is after upgrading to pro, you basically start from where you left. Also, you can use the coupon code %3$s to get %4$s discount (limited time offer) while making the purchase. Enjoy! "
+msgstr "چطوری، %1$s! شما مدتی است که از طرح زمینه %2$s استفاده می کنید و امیدواریم از آن راضی باشید. برای دسترسی به ویژگی های برتر بیشتر همیشه می توانید به حرفه ای ارتقا دهید. تمام محتویات و تنظیمات همانطور که پس از ارتقا به حرفه ای باقی می ماند ، شما اساساً از آنجا که ترک کرده اید شروع می کنید. همچنین ، می توانید هنگام انجام خرید از کد کوپن %3$s برای دریافت %4$s تخفیف (پیشنهاد زمان محدود) استفاده کنید. لذت بردن!"
+
+#: inc/admin/class-accelerate-theme-review-notice.php:126
+#: inc/admin/class-accelerate-upgrade-notice.php:95
+msgid "Maybe later"
+msgstr "شاید بعداً"
+
+#: inc/admin/class-accelerate-dashboard.php:105
+msgid "Leave a review"
+msgstr "دیدگاه‌تان را بفرستید."
+
+#: inc/admin/class-accelerate-dashboard.php:102
+msgid "Further Actions"
+msgstr "اقدامات بعدی"
+
+#: inc/admin/class-accelerate-dashboard.php:97
+msgid "Premium Version"
+msgstr "نگارش پریمیوم"
+
+#: inc/admin/class-accelerate-dashboard.php:96
+msgid "Starter Demos"
+msgstr "شروع کننده دموها"
+
+#: inc/admin/class-accelerate-dashboard.php:93
+msgid "Next Steps"
+msgstr "مراحل بعد"
+
+#: inc/admin/class-accelerate-dashboard.php:88
+msgid "Learn Basics"
+msgstr "اصول را بیاموزید"
+
+#: inc/admin/class-accelerate-dashboard.php:85
+msgid "Get Started"
+msgstr "شروع کنید"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-accelerate-dashboard.php:79
+msgid "Important links to get you started with %s"
+msgstr "پیوندهای مهم برای شروع با %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-accelerate-dashboard.php:73
+msgid "Welcome to %s!"
+msgstr "به %s خوش‌آمدید"
+
+#. translators: %s: Theme version.
+#: inc/admin/class-accelerate-dashboard.php:64
+msgid "Accelerate %s"
+msgstr "شتاب %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-accelerate-dashboard.php:36
+msgid "%s Options"
+msgstr "گزینه‌های %s"
+
+#: header.php:42
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#: inc/admin/class-accelerate-admin.php:63
+msgid "Clicking the button below will install and activate the ThemeGrill demo importer plugin."
+msgstr "با کلیک بر روی دکمه زیر نسخه نمایشی افزونه نصب و فعال می شود."
+
+#: inc/admin/class-accelerate-admin.php:38
+msgid "Processing..."
+msgstr "در حال پردازش..."
+
+#: inc/related-posts.php:61
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: inc/related-posts.php:7
+msgid "You May Also Like"
+msgstr "شما همچنین می توانید"
+
+#: inc/customizer.php:374
+msgid "Related Posts By Tags"
+msgstr "پست های مرتبط با برچسب ها"
+
+#: inc/customizer.php:373
+msgid "Related Posts By Categories"
+msgstr "پست های مرتبط با دسته بندی ها"
+
+#: inc/customizer.php:369
+msgid "Related Posts Must Be Shown As:"
+msgstr "پست های مرتبط باید نمایش داده شوند:"
+
+#: inc/customizer.php:356
+msgid "Check to activate the related posts"
+msgstr "برای فعال کردن پست های مرتبط علامت بزنید"
+
+#: inc/customizer.php:343
+msgid "Related Posts"
+msgstr "پست های مرتبط"
+
+#: inc/customizer.php:335
+msgid "Check to display the author bio."
+msgstr "برای نمایش بیوگرافی نویسنده علامت بزنید."
+
+#: inc/customizer.php:322
+msgid "Author Bio Option"
+msgstr "گزینه بیوگرافی نویسنده"
+
+#: inc/customizer.php:137
+msgid "Switch to new responsive menu."
+msgstr "تغییر به منوی جدید واکنش‌گرا."
+
+#: inc/customizer.php:124
+msgid "Responsive Menu Style"
+msgstr "حالت فهرست واکنش‌گرا"
+
+#: inc/admin/class-accelerate-dashboard.php:104
+msgid "Got theme support question?"
+msgstr "سوالی در زمینه پشتیبانی پوسته دارید؟"
+
+#: inc/admin/class-accelerate-admin.php:67
+#: inc/admin/class-accelerate-welcome-notice.php:26
+msgid "Get started with Accelerate"
+msgstr "شروع کنید"
+
+#: inc/admin/class-accelerate-admin.php:61
+msgid "Welcome! Thank you for choosing Accelerate! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "خوش آمدید. با سپاس از انتخاب پوسته Accelerate توسط شما. برای اطلاع از مزایای پوسته‌های ما، %s صفحه‌ی خوش‌امدگویی %s را ببینید."
+
+#: inc/admin/class-accelerate-admin.php:52
+msgid "Dismiss"
+msgstr "نمایش نده"
+
+#: inc/admin/class-accelerate-notice.php:63
+#: inc/admin/class-accelerate-notice.php:82
+#: inc/admin/class-accelerate-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "تقلب میکنی؟"
+
+#: inc/admin/class-accelerate-notice.php:59
+#: inc/admin/class-accelerate-notice.php:78
+#: inc/admin/class-accelerate-theme-review-notice.php:152
+#: inc/admin/class-accelerate-theme-review-notice.php:170
+#: inc/admin/class-accelerate-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "عملیات با مشکل مواجه شد. لطفا صفحه را بازآوری و مجددا تلاش کنید."
+
+#: search.php:18
+msgid "Search Results"
+msgstr "جستجوی نتایج"
+
+#: inc/customizer.php:41
+msgid "View PRO version"
+msgstr "مشاهده نسخه حرفه‌ای"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "قالب صفحه تماس"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "قالب تجاری"
+
+#: sidebar-left.php:36 sidebar.php:36
+msgid "Meta"
+msgstr "اطلاعات"
+
+#: searchform.php:11 searchform.php:12
+msgid "Search"
+msgstr "جست‌وجو"
+
+#: inc/admin/class-accelerate-dashboard.php:95
+msgid "Documentation"
+msgstr "مستندات"
+
+#: inc/admin/class-accelerate-upgrade-notice.php:90
+msgid "Upgrade to pro"
+msgstr "ارتقا به نسخه حرفه ای"
+
+#: inc/customizer.php:485
+msgid "Enter link to redirect for the slide title"
+msgstr "می توانید به تصویر لینک دهید"
+
+#: inc/customizer.php:472
+msgid "Left side"
+msgstr "سمت چپ"
+
+#: inc/customizer.php:471
+msgid "Right side"
+msgstr "سمت راست"
+
+#: inc/customizer.php:467
+msgid "Slider text position."
+msgstr "موقعیت متن اسلایدر."
+
+#: inc/customizer.php:452
+msgid "Enter description for this slide"
+msgstr "وارد کردن توضیحات برای این تصویر"
+
+#: inc/customizer.php:438
+msgid "Enter title for this slide"
+msgstr "عنوان برای این تصویر"
+
+#: inc/customizer.php:424
+msgid "Upload image"
+msgstr "بارگذاری تصویر"
+
+#: inc/customizer.php:411
+msgid "Slider #%1$s"
+msgstr "تصویر %1$s"
+
+#: inc/customizer.php:402
+msgid "Check to activate slider."
+msgstr "کلیک کنید تا اسلایدر فعال شود."
+
+#: inc/customizer.php:389
+msgid "Activate slider"
+msgstr "فعال سازی اسلایدر"
+
+#: inc/customizer.php:383
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: inc/customizer.php:316
+msgid "Additional"
+msgstr "موارد دیگر"
+
+#: inc/customizer.php:305
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site and logo."
+msgstr "این رنگ در بسیاری از قسمت های سایت مانند پیوند‌ها، دکمه‌ها و ... استفاده می شود. رنگی را انتخاب کنید که با سایت و لوگوی شما همخوانی داشته باشد."
+
+#: inc/customizer.php:293
+msgid "Primary color option"
+msgstr "تنظیمات رنگ اصلی"
+
+#: inc/customizer.php:284
+msgid "Small featured image with alternating sides"
+msgstr "تصویر شاخص کوچک با گوشه‌های متناوب"
+
+#: inc/customizer.php:283
+msgid "Small featured image"
+msgstr "تصویر شاخص کوچک"
+
+#: inc/customizer.php:282
+msgid "Large featured image"
+msgstr "تصویر شاخص بزرگ"
+
+#: inc/customizer.php:280
+msgid "Choose the display type for the latests posts view or posts page view (static front page)."
+msgstr "نوع نمایش آخرین نوشته‌ها را انتخاب کنید."
+
+#: inc/customizer.php:267
+msgid "Posts page listing display type"
+msgstr "نوع نمایش لیست نوشته‌ها (آرشیو)"
+
+#: inc/customizer.php:253
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "چیدمان پیش فرض برای هر نوشته را انتخاب کنید. این چیدمان برای تمام نوشته‌ها به کار خواهد رفت مگر اینکه طرح منحصر به فردی برای پست خاصی تنظیم کنید."
+
+#: inc/customizer.php:240
+msgid "Default layout for single posts only"
+msgstr "چیدمان پیش فرض برای نوشته‌ها"
+
+#: inc/customizer.php:226
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "چیدمان پیش فرض برای برگه‌ها را انتخاب کنید. این چیدمان برای تمام برگه‌ها استفاده می شود مگر اینکه چیدمان منحصربفردی را برای یک برگه‌ی خاص تنظیم کنید."
+
+#: inc/customizer.php:213
+msgid "Default layout for pages only"
+msgstr "چیدمان پیش فرض برای برگه ها"
+
+#: inc/customizer.php:199
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options."
+msgstr "چیدمان پیش فرض را انتخاب کنید. این چیدمان برای تمام صفحات آرشیو و جستجو استفاده می شود. چیدمان برای یک برگه یا یک نوشته از طریق تنظیمات زیر قابل تغییر است."
+
+#: inc/customizer.php:186
+msgid "Default layout"
+msgstr "طرح پیش‌فرض"
+
+#: inc/customizer.php:170
+msgid "Wide layout"
+msgstr "طرح عریض"
+
+#: inc/customizer.php:169
+msgid "Boxed layout"
+msgstr "طرح جعبه‌ای"
+
+#: inc/customizer.php:167
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "چیدمان سایت خود را انتخاب کنید. این طرح برای تمام صفحات آرشیو و جستجو استفاده می‌شود."
+
+#: inc/customizer.php:153
+msgid "Site Layout"
+msgstr "چیدمان سایت"
+
+#: inc/customizer.php:147
+msgid "Design"
+msgstr "طرح"
+
+#: inc/customizer.php:117
+msgid "Position Three: Display the Header image below main/primary menu."
+msgstr "موقعیت سه: نمایش تصویر سربرگ زیر منوی اصلی / اولیه."
+
+#: inc/customizer.php:116
+msgid "Position Two (Default): Display the Header image between site title/text and the main/primary menu."
+msgstr "موقعیت دو (پیش فرض): نمایش تصویر سربرگ بین عنوان سایت / متن و منوی اصلی / اولیه."
+
+#: inc/customizer.php:115
+msgid "Position One: Display the Header image just above the site title/text."
+msgstr "موقعیت اول: نمایش تصویر سربرگ بالای عنوان سایت / متن."
+
+#: inc/customizer.php:112
+msgid "Choose top header image display position."
+msgstr "موقعیت نمایش تصویر بالای سربرگ  را انتخاب کنید."
+
+#: inc/customizer.php:99
+msgid "Header Image Position"
+msgstr "موقعیت تصویر سربرگ"
+
+#: inc/customizer.php:86
+msgid "Choose the option that you want."
+msgstr "گزینه دلخواه را انتخاب کنید."
+
+#: inc/customizer.php:73
+msgid "Show"
+msgstr "نمایش"
+
+#: inc/customizer.php:92
+msgid "Disable"
+msgstr "غیرفعال‌سازی"
+
+#: inc/customizer.php:91
+msgid "Show Both"
+msgstr "نمایش هر دو"
+
+#: inc/customizer.php:90
+msgid "Header Text Only"
+msgstr "فقط نوشته‌ی سرفصل"
+
+#: inc/customizer.php:89
+msgid "Header Logo Only"
+msgstr "فقط لوگوی سرفصل"
+
+#: inc/customizer.php:66
+msgid "Header Logo"
+msgstr "لوگوی سرفصل"
+
+#: inc/customizer.php:60
+msgid "Header"
+msgstr "سربرگ"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "این‌طور به‌نظر می‌رسد که ما نمی‌توانیم چیزی که شما به‌دنبالش هستید پیدا کنیم. شاید جستجو کردن راه بهتری باشد."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متاسفانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>."
+
+#: navigation.php:21 navigation.php:33
+msgid "Next &rarr;"
+msgstr "بعدی &larr;"
+
+#: navigation.php:20 navigation.php:32
+msgid "&larr; Previous"
+msgstr "&rarr; قبلی"
+
+#: inc/widgets/accelerate-custom-tag-widget.php:14
+msgid "TG: Custom Tag Cloud"
+msgstr "ابزارک ابر برچسب‌های سفارشی"
+
+#: inc/widgets/accelerate-custom-tag-widget.php:10
+msgid "Custom Tag Cloud"
+msgstr "ابر برچسب‌های سفارشی"
+
+#: inc/widgets/accelerate-image-service-widget.php:39
+msgid "Display Read more"
+msgstr "نمایش بیشتر بخوانید"
+
+#: inc/widgets/accelerate-image-service-widget.php:14
+msgid "TG: Image Services"
+msgstr "ابزارک تصویر خدمات"
+
+#: inc/widgets/accelerate-image-service-widget.php:10
+msgid "Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr "نمایش برخی برگه‌ها به عنوان خدمات. مناسب برای ستون تجاری بالا یا پایین."
+
+#: inc/widgets/accelerate-recent-work-widget.php:38
+msgid "Description"
+msgstr "توضیح"
+
+#: inc/widgets/accelerate-recent-work-widget.php:14
+msgid "TG: Featured Widget"
+msgstr "ابزارک ویژه"
+
+#: inc/widgets/accelerate-recent-work-widget.php:10
+msgid "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
+msgstr "نمایش برخی برگه‌ها به عنوان کارهای جدید. مناسب برای ستون تجاری بالا یا پایین."
+
+#: inc/widgets/accelerate-call-to-action-widget.php:45
+msgid "Open in new tab"
+msgstr "باز شدن پیوند در سربرگ جدید در مرورگر"
+
+#: inc/widgets/accelerate-call-to-action-widget.php:41
+msgid "Button Redirect Link:"
+msgstr "آدرس پیوند دکمه :"
+
+#: inc/widgets/accelerate-call-to-action-widget.php:37
+msgid "Button Text:"
+msgstr "متن دکمه :"
+
+#: inc/widgets/accelerate-call-to-action-widget.php:34
+msgid "Call to Action Additional Text"
+msgstr "متن اضافی برای فراخوانی برای اقدام"
+
+#: inc/widgets/accelerate-call-to-action-widget.php:32
+msgid "Call to Action Main Text"
+msgstr "متن اصلی فراخوانی برای اقدام"
+
+#: inc/widgets/accelerate-call-to-action-widget.php:14
+msgid "TG: Call To Action Widget"
+msgstr "ابزارک فراخوانی برای اقدام"
+
+#: inc/widgets/accelerate-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr "از این ابزارک برای نمایش بخش فراخوانی برای عمل استفاده کنید."
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:43
+#: inc/widgets/accelerate-featured-single-page-widget.php:48
+msgid "Show Image After Title"
+msgstr "نمایش تصویر بعد از عنوان"
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:42
+#: inc/widgets/accelerate-featured-single-page-widget.php:47
+msgid "Show Image Before Title"
+msgstr "نمایش تصویر قبل از عنوان"
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:37
+msgid "Remove Featured image"
+msgstr "حذف تصویر شاخص"
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:33
+#: inc/widgets/accelerate-image-service-widget.php:32
+#: inc/widgets/accelerate-recent-work-widget.php:42
+msgid "Page"
+msgstr "برگه"
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:30
+msgid "Displays the title of the Page if title input is empty."
+msgstr "اگر عنوان ورودی خالی باشد عنوان صفحه را نمایش می دهد."
+
+#: inc/widgets/accelerate-custom-tag-widget.php:45
+#: inc/widgets/accelerate-featured-single-page-widget.php:27
+#: inc/widgets/accelerate-recent-work-widget.php:35
+msgid "Title:"
+msgstr "نام:"
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:24
+msgid "Suitable for Business Sidebar and Left/Right Sidebar."
+msgstr "مناسب برای نوار کناریچپ / راست کسب و کار."
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:15
+msgid "TG: Featured Single Page"
+msgstr "ابزارک برگه های برجسته"
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:11
+msgid "Display Featured Single Page"
+msgstr "نمایش برگه‌های برجسته"
+
+#: inc/widgets/widgets.php:108
+msgid "Shows widgets at footer sidebar three."
+msgstr "ابزارک ها را در ستون پانوشت سوم نشان می‌دهد."
+
+#: inc/widgets/widgets.php:106
+msgid "Footer Sidebar Three"
+msgstr "ستون پانوشت سه"
+
+#: inc/widgets/widgets.php:97
+msgid "Shows widgets at footer sidebar two."
+msgstr "ابزارک‌ها را در ستون پانوشت دوم نشان می‌دهد."
+
+#: inc/widgets/widgets.php:95
+msgid "Footer Sidebar Two"
+msgstr "ستون پانوشت دو"
+
+#: inc/widgets/widgets.php:86
+msgid "Shows widgets at footer sidebar one."
+msgstr "ابزارک‌ها را در ستون پانوشت اول نشان می‌دهد."
+
+#: inc/widgets/widgets.php:84
+msgid "Footer Sidebar One"
+msgstr "ستون پانوشت یک"
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets on Error 404 page."
+msgstr "ابزارک‌ها را در صفحه خطای 404 نشان می‌دهد."
+
+#: inc/widgets/widgets.php:73
+msgid "Error 404 Page Sidebar"
+msgstr "ستون صفحه خطای 404"
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets on Contact Page Template."
+msgstr "ابزارک‌ها را در صفحه تماس با ما نشان می‌دهد."
+
+#: inc/widgets/widgets.php:62
+msgid "Contact Page Sidebar"
+msgstr "ستون صفحه تماس با ما"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template."
+msgstr "ابزارک‌ها را در صفحه تجاری نشان می‌دهد."
+
+#: inc/widgets/widgets.php:51
+msgid "Business Sidebar"
+msgstr "ستون تجاری"
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "ابزارک‌ها را در بخش سربرگ بالای منو اصلی را نشان می‌دهد."
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr "ستون سربرگ"
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "نمایش ابزارک‌ها در سمت چپ."
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "نمایش ابزارک‌ها در سمت راست."
+
+#: inc/functions.php:568
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: inc/functions.php:568
+msgid "Powered by %s."
+msgstr "طراحی شده توسط %s."
+
+#: inc/functions.php:564
+msgid "WordPress"
+msgstr "وردپرس"
+
+#: inc/functions.php:538
+msgid "Reply"
+msgstr "پاسخ دادن"
+
+#: inc/functions.php:532
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار بررسی است."
+
+#: inc/functions.php:524
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: inc/functions.php:521
+msgid "Post author"
+msgstr "نویسنده"
+
+#: inc/functions.php:506
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: inc/functions.php:506
+msgid "Pingback:"
+msgstr "بازتاب:"
+
+#: inc/functions.php:480
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نوشته‌های تازه‌تر <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/functions.php:476
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&rarr;</span> نوشته‌های قدیمی تر"
+
+#: inc/functions.php:471 navigation.php:41
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:470 navigation.php:40
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/functions.php:466
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/functions.php:360
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/functions.php:357
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr "<i class=\"fa fa-comments\"></i> % دیدگاه"
+
+#: inc/functions.php:357
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> یک دیدگاه"
+
+#: inc/functions.php:357
+msgid "<i class=\"fa fa-comment\"></i> 0 Comment"
+msgstr "<i class=\"fa fa-comment\"></i>بدون دیدگاه"
+
+#: inc/functions.php:303
+msgid "<span class=\"cat-links\"><i class=\"fa fa-folder-open\"></i>%1$s</span>"
+msgstr "<span class=\"cat-links\"><i class=\"fa fa-folder-open\"></i>%1$s</span>"
+
+#: inc/functions.php:301 inc/functions.php:351
+msgid ", "
+msgstr "٬ "
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "بدون ستون - محتوا وسط"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "بدون ستون - عریض"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "ستون‌کناری چپ"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "ستون‌کناری راست"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "طرح پیش‌فرض"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "انتخاب چینش"
+
+#: header.php:111
+msgid "Menu"
+msgstr "فهرست"
+
+#: functions.php:95
+msgid "Footer Menu"
+msgstr "منوی پانویس"
+
+#: functions.php:94
+msgid "Primary/Main Menu"
+msgstr "منوی اصلی"
+
+#: content-page.php:26 content-single.php:31
+msgid "Pages:"
+msgstr "برگه‌ها :"
+
+#: content-blog-large-image.php:40 content-blog-small-image.php:41
+#: content.php:48 inc/widgets/accelerate-featured-single-page-widget.php:95
+#: inc/widgets/accelerate-image-service-widget.php:111
+msgid "Read more"
+msgstr "بیشتر بخوانید"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها غیرفعال هستند."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &larr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&rarr; دیدگاه‌های قدیمی‌تر"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه در &ldquo;%2$s&rdquo;"
+
+#: archive.php:66 sidebar-left.php:29 sidebar.php:29
+msgid "Archives"
+msgstr "بایگانی"
+
+#: archive.php:63
+msgid "Links"
+msgstr "پیوندها"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "نقل قول‌ها"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "ویدیوها"
+
+#: archive.php:54
+msgid "Images"
+msgstr "تصویرها"
+
+#: archive.php:51
+msgid "Asides"
+msgstr "کلمات قصار"
+
+#: archive.php:48
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: archive.php:45
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: archive.php:42
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: archive.php:34
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "برگه‌ی درخواستی شما پیدا نشد. شاید جستجو بتواند به شما کمک کند."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! برگه درخواستی پیدا نشد."
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "http://themegrill.com"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/accelerate/"
+msgstr "http://themegrill.com/themes/accelerate/"
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr "تم‌گریل"

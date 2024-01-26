@@ -1,0 +1,1557 @@
+# Translation of Themes - Digital Download in Persian
+# This file is distributed under the same license as the Themes - Digital Download package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-29 10:40:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fa\n"
+"Project-Id-Version: Themes - Digital Download\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Digital Download"
+msgstr "دیجیتال دانلود"
+
+#: inc/template-functions.php:39
+msgid "Skip to content (Press Enter)"
+msgstr "پرش به محتوا (کلید Enter را بزنید)"
+
+#: inc/custom-functions.php:505
+msgid "Dismiss"
+msgstr "رد کردن"
+
+#: inc/custom-functions.php:504
+msgid "Go to the getting started."
+msgstr "برو به شروع"
+
+#: inc/custom-functions.php:502
+msgid "Congratulations!"
+msgstr "تبریک!"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "رایگان در مقابل پولی"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "سوالات متداول؛ پشتیبانی"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "شما هرچیزی که برای شروع نیاز دارید با  %1$s در زیر خواهید یافت."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "شروع کردن با %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "فعال‌سازی"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "شروع شدن"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "نمونه کارهای Jetpack"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "نصب و فعال‌سازی"
+
+#: inc/getting-started/tabs/plugins-panel.php:52
+msgid "Version %s"
+msgstr "نسخه %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:42
+msgid "These Free Plugins might be handy for you."
+msgstr "این افزونه های رایگان ممکن است برای شما دستی باشد."
+
+#: inc/getting-started/tabs/plugins-panel.php:41
+msgid "Free Plugins"
+msgstr "افزونه های رایگان"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the Digital Download. Though every plugin is optional, we recommend you to at least install %1$sRaraTheme Companion%2$s, %1$sEasy Digital Download%2$s, %1$sBlossomthemes Email Newsletter%2$s, %1$sSubtitles%2$s & %1$sRara One Click Demo Import%2$s to create a website similar to the Digital Download demo and also to ensure every feature of the theme works correctly."
+msgstr "اینجا یک لیست از افزونه های پیشنهادی وجود دارد که شما باید نصب کنید تا به بیشترین خروجی دیجیتال دانلود دست یابید. اگرچه همه افزونه ها اختیاری اند، ما پیشنهاد می کنیم تا حداقل %1$sRaraTheme Companion%2$s, %1$sEasy Digital Download%2$s, %1$sBlossomthemes Email Newsletter%2$s, %1$sSubtitles%2$s & %1$sRara One Click Demo Import%2$s را نصب کنید تا یک وبسایت شبیه نمونه نمایشی دیجیتال دانلود بسازید و مطمئین شوید که همه ویژگی های قالب به درستی کار می کنند."
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "افزونه های پیشنهادی"
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "قبل از ارسال درخواست پشتیبانی لطفا مطمئن شوید که شما آخرین نسخه پوسته را بروزرسانی کرده اید. ممکن ما خطای مورد نظر شما را در نسخه بروزرسانی شده برطرف کرده باشیم."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "چطور می توانم مسئله ام را سریع برطرف کنم و پشتیبانی سریعتری دریافت کنم؟"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "اگر این کار نکرد، لطفا از طریق  %1$sSupport Ticket%2$s با ما تماس بگیرید."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "اگر سفارشی ساز شما به درستی بارگذاری نشد یا با قالب مشکلی دارید، این ممکن است به دلیل تعارض افزونه باشد."
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details possible so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "همچنین، وقتی شما بلیط پشتیبانی را ارسال کنید، لطفا تلاش کنید تا بیشترین جزییات ممکن را فراهم کنید برای اینکه ما بتوانیم به مسائل به طور دقیق نگاه کنیم و در کمترین زمان ممکن برطرف نماییم. ما پیشنهاد می کنیم به شما تا برای ما اسکرین شات به همراه توضیح مسئله و آدرس URL وبسایت خود بفرستید."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "برای حل این مسئله، ابتدا همه افزونه ها را به جز آنهایی که پیشنهاد پوسته است، غیرفعال نمایید. سپس وبسایت خود را با استفاده از %1$s\"Ctrl+Shift+R\"%2$s در ویندوز و %1$s\"Cmd+Shift+R\"%2$s در مک نوسازی سخت کنید. اگر مسئله برطرف شد، افزونه ها را یکی یکی فعال کنید و هر بار سایت خود را نوسازی و بررسی کنید. این کمک می کند تا افزونه مشکل ساز را پیدا کنید."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "چرا پوسته من به خوبی کار نمی کند؟"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "شما می توانید متن کپی رایت را با رفتن به %1$sAppearance > Customize > Footer Settings%2$s تغییر دهید. هرچند، اگر می خواهید متن امتیاز نویسنده را پنهان کنید، لطفا %3$supgrade to the Pro version%4$s به نسخه پولی بروزرسانی کنید."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "چطور متن قانون کپی رایت را تغییر دهم؟"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "نسخه پولی با انعطاف پذیری زیادی برای سازگاری با نسخه های آینده ساخته شده است. بنابراین، کمی از نسخه رایگان متفاوت است ولی کاملا انعطاف پذیر و با کاربرد آسان است."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "اگرچه از آنجایی که نسخه حرفه ای همراه با ویژگی ها و تنظیمات افزوده شده می آید، شما نیاز خواهید داشت به نصب ویژگی های اضافه در سفارشی ساز. این فرایند آسان است و فقط چند دقیقه زمان می برد."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "وقتی به نسخه حرفه ای بروزرسانی می کنید، پست ها، صفحات، رسانه، دسته بندی، و دیگر داده ها دست نخورده باقی خواهد ماند. همه اطلاعات شما ذخیره شده است."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "ارتقا به نسخه حرفه ای- آیا تغییراتم را از دست خواهم داد؟"
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "قدرت ارتقا به نسخه حرفه ای چیست؟"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "به طور کل، با نسخه حرفه ای شما کنترل بیشتری در سفارشی سازی و ویرایش وبسایت خود، خواهید داشت."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "تفاوت بین رایگان و حرفه ای چیست؟"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "به پایگاه دانش مراجعه کنید."
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "مستندات ما همراه با راهنمایی های قدم به قدم از نصب وردپرس تا سفارشی کردن قالب می آید تا یک وبسایت جذاب و سرگرم کننده ایجاد کند."
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "همراه با ویژگی های اضافه و بروزرسانی منظم، با نسخه حرفه ای شما از پشتیبانی اختصاصی و سریع برخوردار خواهید شد. اگر در هر مشکلی حین ساخت سایت با پوسته حرفه ای بیافتید، شما پاسخ سریعتری نسبت به پشتیبانی رایگان دریافت خواهید کرد."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple homepage sections which you can sort and hide as per your requirements. Also, the Pro theme comes with several predefined page templates."
+msgstr "هم نسخه رایگان و هم حرفه ای به خوبی کد نویسی شده اند و با بهترین تکنیک های کدنویسی توسعه یافته اند. به هرحال، نسخه حرفه ای، با ویژگی های گسترده و پشتیبانی اختصاصی برای کمک به حل مسائل شما آمده است. پوسته حرفه ای با بخش هایی  با چند صفحه اصلی می آید که شما می توانید برحسب نیاز آنها را مرتب یا پنهان کنید. همچنین، پوسته حرفه ای، با چندین قالب صفحه از پیش تعیین شده می آید."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "آیا به کمک وردپرس و قالب ما در سریعترین زمان ممکن نیاز دارید؟ از مستندات بخوبی سازمان یافته ما دیدن کنید."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "به پایگاه دانش مراجعه کنید."
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "اینجا درباره این ویژگی ها بیشتر بخوانید."
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the Pro version gets regular updates and has a dedicated support team to solve your queries."
+msgstr "همچنین، نسخه حرفه ای بروزرسانی های منظم را دریافت می کند و یک تیم پشتیانی اختصاصی برای حل مسائل شما دارد."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern as well as fonts of the website with the Pro version. Also, the Pro theme features more homepage sections than free version to allow you to showcase your organization services in a better way boosting the growth of the organization. Furthermore, the premium theme comes with multiple predefined page templates."
+msgstr "نسخه حرفه ای این پوسته به شما این امکان را می دهد تا تنها با چند کلیک نما و احساس وبسایت را تغییر دهید. با نسخه حرفه ای شما به آسانی می توانید رنگ، تصویر پس زمینه و الگو به علاوه فونت وبسایت را  تغییر دهید. همچنین، پوسته حرفه ای، بخش های با صفحه اصلی بیشتری نسبت به نسخه رایگان نمایان می کند تا این امکان را به شما بدهد تا خدمات سازمان خود را به نحو بهتری ارائه کنید و سازمان خود را تقویت کنید. به علاوه، نسخه حرفه ای به همراه قالب های با صفحات چندگانه از پیش تعیین شده می آید."
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "ارتقا به حرفه‌ای"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "دیدن نمونه نمایشی"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "نمایش نمونه نمایشی (دمو)"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "نمونه نمایشی (دمو) را ببینید تا تصورات بیشتری درباره پوسته ما و ویژگی هایش کسب کنید."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our Digital Download Demo"
+msgstr "نمونه نمایشی دیجیتال دانلود ما را ببینید."
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "مراجعه به پشتیبانی"
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "همیشه بهتر است قبل از ارسال پرسش پشتیبانی، از %1$sراهنمای مستندات%2$s ما دیدن کنید."
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "اگر مستندات راهنما کمکی به شما نکرد، از طریق  %1$sبلیط پشتیبانی%2$s با ما تماس بگیرید. ما طی یک روز کاری پاسخ همه مسائل پشتیبانی را خواهیم داد، به جز در پایان هفته ها."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "بلیط پشتیبانی"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "نمایش مستندات"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "مستندات را ببینید."
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "آیا شما در دنیای وردپرس، تازه واردرهستید؟ اسناد راهنمای قدم به قدم ما، به شما کمک می کند تا  بدون داشتن دانش کدنویسی یا تجربه قبلی، یک وبسایت جذاب و فریبنده ایجاد کنید."
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "نمایش پیوند اسناد ما"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "نمایش حرفه ای"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "نمایش نسخه حرفه ای"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "رایگان در برابر حرفه ای"
+
+#: inc/custom-functions.php:503
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s  اکنون نصب شده است و آماده استفاده است. در زیر کلیک نمایید تا مستندات، افزونه ها برای نصب و دیگر جزئیات پوسته را برای شروع، مشاهده نمایید."
+
+#: inc/template-functions.php:523
+msgid "Digital Download | Developed by "
+msgstr "دیجیتال دانلود | توسعه یافته توسط"
+
+#: inc/widgets.php:49
+msgid "Add footer four widgets here."
+msgstr "ابزارک های پاورقی چهار را از اینجا اضافه کنید."
+
+#: inc/widgets.php:47
+msgid "Footer Four"
+msgstr "پاورقی چهار"
+
+#: inc/widgets.php:44
+msgid "Add footer three widgets here."
+msgstr "ابزارک های پاورقی سه را از اینجا اضافه کنید."
+
+#: inc/widgets.php:42
+msgid "Footer Three"
+msgstr "پاورقی سه"
+
+#: inc/widgets.php:39
+msgid "Add footer two widgets here."
+msgstr "ابزارک های پاورقی دو را از اینجا اضافه کنید."
+
+#: inc/widgets.php:37
+msgid "Footer Two"
+msgstr "پاورقی دو"
+
+#: inc/widgets.php:34
+msgid "Add footer one widgets here."
+msgstr "ابزارک های پاورقی یک را از اینجا اضافه کنید."
+
+#: inc/widgets.php:32
+msgid "Footer One"
+msgstr "پاورقی یک"
+
+#: inc/widgets.php:29
+msgid "Add \"Rara: Call To Action\" widget for Call to Action section."
+msgstr "ابزارک «رارا: فراخوانی برای اقدام» را برای بخش فراخوانی برای اقدام بیافزایید."
+
+#: inc/widgets.php:27
+msgid "Call To Action Section"
+msgstr "بخش فراخوانی برای اقدام"
+
+#: inc/widgets.php:22
+msgid "Testimonial Section"
+msgstr "بخش رضایت"
+
+#: inc/widgets.php:24
+msgid "Add \"Text\" & \"Rara: Testimonial\" widgets for testimonial section."
+msgstr "ابزارک های «متن» و «رارا: رضایت» را برای بخش رضایت بیافزایید."
+
+#: inc/widgets.php:19
+msgid "Add \"Text\" & \"Rara: Icon Text\" widgets for feature section."
+msgstr "ابزارک های «متن» و «رارا: متن آیکون» را برای بخش ویژگی بیافزایید."
+
+#: inc/widgets.php:17
+msgid "Features Section"
+msgstr "بخش ویژگی ها"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+#: inc/extras.php:493
+msgid "Choose Category"
+msgstr "انتخاب دسته"
+
+#: inc/extras.php:468
+msgid " -- Choose -- "
+msgstr "-- انتخاب کنید --"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/extras.php:392
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: inc/extras.php:293
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: inc/extras.php:287
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار بررسی است."
+
+#: inc/extras.php:216
+msgid "Click here to add a menu"
+msgstr "برای افزودن یک فهرست، اینجا کلیک کنید."
+
+#: inc/extras.php:149
+msgid "by %1$s in %2$s"
+msgstr "توسط %1$s در %2$s"
+
+#: inc/extras.php:100
+msgid "Latest Posts"
+msgstr "آخرین نوشته ها"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:60 inc/extras.php:149
+msgid ", "
+msgstr "، "
+
+#. translators: %s: post author.
+#: inc/extras.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr "توسط %s"
+
+#: inc/customizer/footer.php:32
+msgid "Footer Copyright Text"
+msgstr "متن کپی رایت پاورقی"
+
+#: inc/customizer/footer.php:13
+msgid "Footer Settings"
+msgstr "تنظیمات پاورقی"
+
+#: inc/customizer/general.php:552
+msgid "Enable to show featured image in post detail (single post)."
+msgstr "برای نمایش تصویر ویژه درجزییات نوشته فعال نمایید (نوشته تنها)"
+
+#: inc/customizer/general.php:531
+msgid "Enable to hide posted date."
+msgstr "برای پنهان کردن تاریخ نوشته، فعال کنید."
+
+#: inc/customizer/general.php:510
+msgid "Enable to hide post author."
+msgstr "برای پنهان کردن نویسنده نوشته، فعال کنید."
+
+#: inc/customizer/general.php:530
+msgid "Hide Posted Date"
+msgstr "تاریخ نوشته را پنهان کن."
+
+#: inc/customizer/general.php:551
+msgid "Show Featured Image"
+msgstr "تصویر ویژه را نمایش بده."
+
+#: inc/customizer/general.php:509
+msgid "Hide Post Author"
+msgstr "نویسنده نوشته را پنهان کن"
+
+#: inc/customizer/general.php:489
+msgid "Enable to hide category."
+msgstr "برای پنهان کردن دسته بندی، فعال کنید."
+
+#: inc/customizer/general.php:488
+msgid "Hide Category"
+msgstr "دسته بندی را فعال کن"
+
+#: inc/customizer/general.php:464
+msgid "Related Posts Section Title"
+msgstr "عنوان بخش نوشته های مربوطه"
+
+#: inc/customizer/general.php:444
+msgid "Enable to show related posts in single page."
+msgstr "برای نمایش نوشته های مربوطه در یک صفحه، فعال کنید."
+
+#: inc/customizer/general.php:443
+msgid "Show Related Posts"
+msgstr "نمایش نوشته های مرتبط"
+
+#: inc/customizer/general.php:423
+msgid "Enable to hide author section below the post."
+msgstr "برای پنهان کردن بخش نویسنده زیر نوشته، فعال کنید."
+
+#: inc/customizer/general.php:422
+msgid "Hide Author Section"
+msgstr "بخش نویسنده را پنهان کن"
+
+#: inc/customizer/general.php:402
+msgid "<hr/>These options affect your individual posts."
+msgstr "<hr/> این گزینه ها بر نوشته های شخصی شما اثر می کند."
+
+#: inc/customizer/general.php:378
+msgid "Read More Text"
+msgstr "بیشتر بخوانید."
+
+#: inc/customizer/general.php:353
+msgid "Automatically generated excerpt length (in words)."
+msgstr "طول چکیده به صورت خودکار تولید می شود(از نظر کلمات)."
+
+#: inc/customizer/general.php:352
+msgid "Excerpt Length"
+msgstr "طول چکیده"
+
+#: inc/customizer/general.php:332
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "فعال برای نمایش چکیده و غیرفعال برای نمایش کل محتوای نوشته"
+
+#: inc/customizer/general.php:331
+msgid "Enable Blog Excerpt"
+msgstr "فعال کردن چکیده وبلاگ"
+
+#: inc/customizer/general.php:311
+msgid "Enable to hide prefix in archive page."
+msgstr "برای پنهان کردن پیشوند در برگه بایگانی، فعال کنید."
+
+#: inc/customizer/general.php:310
+msgid "Hide Prefix in Archive Page"
+msgstr "پیشوند را در برگه بایگانی پنهان کن"
+
+#: inc/customizer/general.php:289
+msgid "Posts(Blog) & Pages Settings"
+msgstr "تنظیمات برگه ها و نوشته ها (وبلاگ)"
+
+#: inc/customizer/general.php:279
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "برای نشان دادن تاریخ آخرین بروزرسانی نوشته در فهرست و نوشته تنها فعال کنید."
+
+#: inc/customizer/general.php:278
+msgid "Enable Last Update Post Date"
+msgstr "فعال کردن آخرین تاریخ بروزرسانی نوشته"
+
+#: inc/customizer/general.php:257
+msgid "SEO Settings"
+msgstr "تنظیمات SEO"
+
+#: inc/customizer/general.php:242
+msgid "links"
+msgstr "پیوندها"
+
+#: inc/customizer/general.php:237
+msgid "Example: http://facebook.com"
+msgstr "مثال: http://facebook.com"
+
+#: inc/customizer/general.php:236
+msgid "Link"
+msgstr "پیوند"
+
+#: inc/customizer/general.php:232
+msgid "Example: fab fa-facebook-f"
+msgstr "مثال: fab fa-facebook-f"
+
+#: inc/customizer/general.php:231
+msgid "Font Awesome Icon"
+msgstr "نماد فونت عالی"
+
+#: inc/customizer/general.php:227
+msgid "Social Links"
+msgstr "پیوند شبکه‌های اجتماعی"
+
+#: inc/customizer/general.php:205
+msgid "Enable to show social links at footer."
+msgstr "برای نمایش پیوند شبکه های اجتماعی در پاورقی، فعال کنید."
+
+#: inc/customizer/general.php:204
+msgid "Enable Social Links"
+msgstr "فعال کردن پیوند شبکه های اجتماعی"
+
+#: inc/customizer/general.php:183
+msgid "Social Media Settings"
+msgstr "تنظیمات رسانه های اجتماعی"
+
+#: inc/customizer/general.php:151
+msgid "Change the \"Dashboard\" label in the header, when the user has logged in."
+msgstr "وقتی کاربر وارد شد، برچسب پیشخوان را در سربرگ تغییر بده."
+
+#: inc/customizer/general.php:150
+msgid "Dashboard Label"
+msgstr "برچسب پیشخوان"
+
+#: inc/customizer/general.php:131
+msgid "Change the \"Logout\" label in the header, when the user is in dashboard page."
+msgstr "وقتی کاربر در صفحه پیشخوان است، برچسب خروج را در سربرگ تغییر بده."
+
+#: inc/customizer/general.php:130
+msgid "Logout Label"
+msgstr "برچسب خروج"
+
+#: inc/customizer/general.php:89
+msgid "Change the \"Login\" label in the header, when the user has not logged in."
+msgstr "وقتی کاربر وارد نشده است، برچسب ورود را در سربرگ تغییر بده."
+
+#: inc/customizer/general.php:88
+msgid "Login Label"
+msgstr "برچسب ورود"
+
+#: inc/customizer/general.php:67
+msgid "Shopping Cart"
+msgstr "سبد خرید"
+
+#: inc/customizer/general.php:68
+msgid "Enable to show Shopping Cart in header."
+msgstr "برای نمایش سبد خرید در سربرگ فعال کنید."
+
+#: inc/customizer/general.php:47
+msgid "Enable to show Search button in header."
+msgstr "برای نمایش دکمه جستجو در سربرگ فعال کنید."
+
+#: inc/customizer/general.php:46
+msgid "Header Search"
+msgstr "جستجوی سربرگ"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "تنظیمات سربرگ"
+
+#: inc/customizer/general.php:17
+msgid "Customize Header, Social, SEO, Post/Page settings."
+msgstr "سفارشی کردن تنظیمات سربرگ، شبکه های اجتماعی، نوشته/برگه."
+
+#: inc/customizer/general.php:16
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: inc/customizer/layout.php:89
+msgid "This is the general sidebar layout for whole site."
+msgstr "این چیدمان نوار کناری عمومی برای کل سایت است."
+
+#: inc/customizer/layout.php:88
+msgid "Default Sidebar Layout"
+msgstr "چیدمان پیش‌فرض نوار کناری"
+
+#: inc/customizer/layout.php:62
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in repective post."
+msgstr "این چیدمان نوار کناری عمومی برای نوشته ها است. شما می توانید چیدمان نوار کناری را برای نوشته های شخصی در نوشته های مربوطه تغییر دهید."
+
+#: inc/customizer/layout.php:61
+msgid "Post Sidebar Layout"
+msgstr "چیدمان نوار کناری نوشته"
+
+#: inc/customizer/layout.php:35
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in repective page."
+msgstr "این چیدمان نوار کناری عمومی برای برگه ها است. شما می توانید چیدمان نوار کناری را برای برگه های شخصی در برگه های مربوطه تغییر دهید."
+
+#: inc/customizer/layout.php:34
+msgid "Page Sidebar Layout"
+msgstr "چیدمان نوار کناری برگه"
+
+#: inc/customizer/layout.php:14
+msgid "General Sidebar Layout"
+msgstr "چیدمان عمومی نوار کناری"
+
+#: inc/customizer/frontpage.php:382
+msgid "Enter the BlossomThemes Email Newsletters Shortcode. Ex. [BTEN id=\"356\"]"
+msgstr "کد کوتاه خبرنامه ایمیلی پوسته Blossom را وارد نمایید. مثال: [BTEN id=\"356\"]"
+
+#: inc/customizer/frontpage.php:381
+msgid "Newsletter Shortcode"
+msgstr "کد کوتاه خبرنامه"
+
+#: inc/customizer/frontpage.php:361
+msgid "Enable to show newsletter section."
+msgstr "برای نمایش بخش خبرنامه، فعال کنید."
+
+#: inc/customizer/frontpage.php:360
+msgid "Enable Newsletter Section"
+msgstr "فعال کردن بخش خبرنامه"
+
+#: inc/customizer/frontpage.php:339
+msgid "Newsletter Section"
+msgstr "بخش خبرنامه"
+
+#: inc/customizer/frontpage.php:327
+msgid "Button Link"
+msgstr "پیوند دکمه"
+
+#: inc/customizer/frontpage.php:302
+msgid "Button Label"
+msgstr "برچسب دکمه"
+
+#: inc/customizer/frontpage.php:283
+msgid "9"
+msgstr "۹"
+
+#: inc/customizer/frontpage.php:282
+msgid "6"
+msgstr "۶"
+
+#: inc/customizer/frontpage.php:281
+msgid "3"
+msgstr "۳"
+
+#: inc/customizer/frontpage.php:278
+msgid "No. of Downloads"
+msgstr "تعداد دانلودها"
+
+#: inc/customizer/frontpage.php:210
+msgid "Enable to show download section."
+msgstr "برای نمایش بخش دانلود، فعال کنید."
+
+#: inc/customizer/frontpage.php:209
+msgid "Enable Download Section"
+msgstr "فعال کردن بخش دانلود"
+
+#: inc/customizer/frontpage.php:188
+msgid "Download Section"
+msgstr "بخش دانلود"
+
+#: inc/customizer/frontpage.php:177
+msgid "Second Link"
+msgstr "پیوند دوم"
+
+#: inc/customizer/frontpage.php:154
+msgid "Second Label"
+msgstr "برچسب دوم"
+
+#: inc/customizer/frontpage.php:135
+msgid "Banner Link"
+msgstr "پیوند بنر"
+
+#: inc/customizer/frontpage.php:112
+msgid "Banner Label"
+msgstr "برچسب بنر"
+
+#: inc/customizer/frontpage.php:88 inc/customizer/frontpage.php:253
+msgid "Sub Title"
+msgstr "زیرعنوان"
+
+#: inc/customizer/frontpage.php:64 inc/customizer/frontpage.php:229
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/customizer/frontpage.php:44
+msgid "Enable to show banner section."
+msgstr "برای نمایش بخش بنر فعال کنید."
+
+#: inc/customizer/frontpage.php:43
+msgid "Enable Banner Section"
+msgstr "فعال کردن بخش بنر"
+
+#: inc/customizer/frontpage.php:22
+msgid "Banner Section"
+msgstr "بخش بنر"
+
+#: inc/customizer/frontpage.php:17
+msgid "Static Home Page settings."
+msgstr "تنظیمات صفحه اصلی ثابت"
+
+#: inc/customizer/frontpage.php:16
+msgid "Front Page Settings"
+msgstr "تنظیمات صفحۀ نخست"
+
+#: inc/customizer/info.php:134
+msgid "VIEW PRO THEME"
+msgstr "مشاهده پوسته حرفه ای"
+
+#: inc/customizer/info.php:132
+msgid "Pro Available"
+msgstr "حرفه ای در دسترس"
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:35
+msgid "Documentation Link : "
+msgstr "پیوند اسناد : "
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:30 inc/customizer/info.php:35
+msgid "Click here."
+msgstr "اینجا کلیک کنید."
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "Demo Link : "
+msgstr "پیوند دمو : "
+
+#: inc/customizer/info.php:15
+msgid "Demo & Documentation"
+msgstr "دمو و اسناد"
+
+#: inc/customizer/appearance.php:17
+msgid "Customize Typography, Background Image & Color."
+msgstr "سفارشی کردن تایپوگرافی، تصویر و رنگ پس زمینه ."
+
+#: inc/customizer/appearance.php:16
+msgid "Appearance Settings"
+msgstr "تنظیمات ظاهر"
+
+#: inc/edd-functions.php:203
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: inc/edd-functions.php:202
+msgid "View"
+msgstr "مشاهده"
+
+#: inc/edd-functions.php:179
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#: inc/edd-functions.php:171
+msgid "Categories"
+msgstr "دسته‌ها"
+
+#: inc/edd-functions.php:124
+msgid "Purchase"
+msgstr "خرید"
+
+#: inc/edd-functions.php:121
+msgid "Buy Now"
+msgstr "‌اکنون بخرید"
+
+#: inc/edd-functions.php:101
+msgid "Name your price:"
+msgstr "قیمت خود را بگذارید:"
+
+#: inc/customizer/general.php:78 inc/edd-functions.php:69
+msgid "Login"
+msgstr "ورود"
+
+#: inc/customizer/general.php:140 inc/edd-functions.php:63
+msgid "Dashboard"
+msgstr "پیش‌خوان"
+
+#: inc/customizer/general.php:120 inc/edd-functions.php:59
+msgid "Logout"
+msgstr "خروج"
+
+#: inc/edd-functions.php:16 inc/edd-functions.php:105
+msgid "Free"
+msgstr "رایگان"
+
+#: inc/partials.php:120
+msgid "All Rights Reserved. "
+msgstr "کلیه‌ی حقوق محفوظ است. "
+
+#: inc/partials.php:118
+msgid "Y"
+msgstr "Y"
+
+#: inc/partials.php:117
+msgid "&copy; Copyright "
+msgstr "&copy; Copyright "
+
+#: inc/customizer/general.php:453 inc/extras.php:109 inc/partials.php:103
+msgid "You may also like..."
+msgstr "ممکن است همچنین دوست داشته باشید..."
+
+#: inc/tgmpa/recommended-plugins.php:71
+msgid "Subtitles"
+msgstr "زیرنویس ها"
+
+#: inc/tgmpa/recommended-plugins.php:66
+msgid "BlossomThemes Email Newsletter"
+msgstr "خبرنامه ایمیلی پوسته Blossom"
+
+#: inc/tgmpa/recommended-plugins.php:61
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "Rara One Click Demo Import"
+msgstr "درون ریزی تک کلیک دموی رارا"
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "RaraTheme Companion"
+msgstr "RaraTheme Companion"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال نصب افزونه %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "همه نصب ها تکمیل شده است."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "مراحل نصب شروع می‌شود. این فرایند بسته به میزبان ممکن است کمی طول بکشد، لطفا شکیبا باشید."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال کردن افزونه %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "همه مراحل نصب و فعال سازی تکمیل شده است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "پنهان کردن جزییات"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب و فعال شد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "مراحل نصب و فعال سازی شروع می‌شود. این فرایند بسته به میزبان ممکن است کمی طول بکشد، لطفا شکیبا باشید."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s ناموفق بود."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب %1$s: <strong>%2$s</strong> خطایی رخ داد."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال به روز رسانی افزونه ی %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "عدم موفقیت در فعالسازی افزونه"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "در حال حاضر افزونه‌ای برای فعال‌سازی وجود ندارد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "افزونه ای برای فعالسازی انتخاب نشده است. عملی انجام نشد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "در حال حاضر افزونه‌ای برای به روز رسانی وجود ندارد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "در حال حاضر هیچ افزونه ای برای نصب وجود ندارد"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "افزونه ای برای بروزرسانی انتخاب نشده است. عملی انجام نشد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "افزونه ای برای نصب انتخاب نشده است. عملی انجام نشد."
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr "نصب"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام ارتقا از نویسندهٔ افزونه:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "فعال‌سازی %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "نسخه"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "نوع"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "منبع"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "افزونه"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "افزونه ای برای نصب،بروزرسانی یا فعالسازی موجود نیست."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "نسخه دردسترس:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "حداقل نسخه موردنیاز:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "نسخه نصب شده:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناس"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعالسازی <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "بروزرسانی در دسترس است <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s، %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "بروز رسانی توصیه می شود"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "نیاز به بروز رسانی دارد"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "بروزرسانی ضروری دردسترس نیست"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "فعال"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "نصب شده ولی فعال نیست"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "بسته های آماده"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "توصیه‌شده"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "ضروری"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "بسته افزونه از راه دور شامل بیش از یک فایل است، اما فایل ها در یک پوشه بسته بندی نشده اند."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "لطفا با ارائه دهنده افزونه تماس بگیرید و از آنها بخواهید افزونه خود را با توجه به دستورالعمل های وردپرس بسته بندی کنند."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "بسته افزونه از راه دور حاوی پوشه ای با نامک دلخواه نیست و تغییر نام کار نمی کند."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "بروزرسانی ضروری است"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه باید به روزرسانی شود تا با قالب شما سازگار باشد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک با مدیر این سایت تماس بگیرید. "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "اینجا یک یا چند افزونه ضروری یا توصیه شده برای نصب،بروزرسانی یا فعال سازی موجود است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "نادیده گرفتن این اعلان"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه افزونه ها با موفقیت نصب و فعال شدند. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "افزونه فعال نشد. نسخه جدیدتر %s  برای این قالب نیاز است. لطفا افزونه را بروزرسانی کنید."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "عملی انجام نشد. افزونه %1$s همچنان فعال است."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه های زیر با موفقیت فعال شدند:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به نصب کننده افزونه های لازم"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "فعال سازی افزونه ها را شروع کنید"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "به روز رسانی افزونه ها را شروع کنید"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "نصب افزونه ها را شروع کنید"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های توصیه شده زیر در حال حاضر غیر فعال هستند: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های مورد نیاز زیر در حال حاضر غیر فعال هستند: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "به روز رسانی هایی برای افزونه های زیر موجود است: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "افزونه های زیر باید به آخرین نسخه به روز رسانی شوند تا اطمینان حاصل شود حداکثر سازگاری با این قالب را دارند: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این قالب، افزونه های زیر را توصیه می کند: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این قالب نیاز به افزونه های زیر دارد:  %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "خطایی در API افزونه رخ داده است."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "در حال بروزرسانی افزونه: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "در حال نصب افزونه: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "نصب افزونه‌ها"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های ضروری"
+
+#: inc/template-functions.php:525
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:525
+msgid " Powered by %s"
+msgstr "طراحی شده توسط %s"
+
+#: inc/template-functions.php:403
+msgid "Page"
+msgstr "برگه"
+
+#: inc/template-functions.php:402
+msgid "Next"
+msgstr "بعدی"
+
+#: inc/template-functions.php:401
+msgid "Previous"
+msgstr "قبلی"
+
+#: inc/template-functions.php:380
+msgid "Next Article"
+msgstr "مقالۀ بعدی"
+
+#: inc/template-functions.php:370
+msgid "Previous Article:"
+msgstr "مقالۀ قبلی"
+
+#: inc/template-functions.php:360
+msgid "Previuos Article"
+msgstr "مقاله قبلی"
+
+#: inc/template-functions.php:354
+msgid "Post Navigation"
+msgstr "ناوبری نوشته"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:298
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer/general.php:367 inc/partials.php:94
+#: inc/template-functions.php:284
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: inc/template-functions.php:264
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: inc/template-functions.php:167
+msgid "Showing %1$s Result(s)%2$s"
+msgstr "نمایش %1$s نتیجه (ها) %2$s"
+
+#: inc/template-functions.php:158
+msgid "You are looking for..."
+msgstr "شما درحال گشتن به دنبال ..."
+
+#: inc/template-functions.php:157
+msgid "Search Result"
+msgstr "نتیجه جستجو"
+
+#: inc/template-functions.php:146
+msgid "%1$sAll Posts by%2$s"
+msgstr "%1$s همه نوشته ها توسط %2$s"
+
+#: inc/metabox.php:71
+msgid "Choose Sidebar Template"
+msgstr "انتخاب قالب نوار کناری"
+
+#: inc/metabox.php:61
+msgid "Right Sidebar"
+msgstr "نوار کناری راست"
+
+#: inc/metabox.php:56
+msgid "Left Sidebar"
+msgstr "ستون کناری چپ"
+
+#: inc/metabox.php:51
+msgid "Full Width Centered"
+msgstr "وسط تمام عرض"
+
+#: inc/metabox.php:46
+msgid "Full Width"
+msgstr "تمام عرض"
+
+#: inc/metabox.php:41 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "ستون‌ کناری پیش‌فرض"
+
+#: inc/metabox.php:17 inc/metabox.php:27
+msgid "Sidebar Layout"
+msgstr "چیدمان نوار کناری"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "تغییر فایل"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "افزودن فایل"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "هیچ فایلی انتخاب نشد"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "تغییر تصویر"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "افزودن تصویر"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "حذف کردن"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "تصویری انتخاب نشد"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "مقدار Hex"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "محدوده: %s ردیف"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "افزودن %s تازه"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "ردیف"
+
+#. translators: Post type archive title. 1: Post type name
+#: inc/custom-functions.php:410
+msgid "%1$sBrowsing Archives%2$s %3$s"
+msgstr "%1$sمرور آرشیو%2$s %3$s"
+
+#: inc/custom-functions.php:421
+msgid "%1$sArchives%2$s"
+msgstr "%1$sآرشیو%2$s"
+
+#. translators: Daily archive title. 1: Date
+#: inc/custom-functions.php:403
+msgid "%1$sBrowsing Day%2$s %3$s"
+msgstr "%1$sمرور روز%2$s %3$s"
+
+#. translators: Daily archive title. 1: Date
+#: inc/custom-functions.php:400 inc/custom-functions.php:403
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#. translators: Monthly archive title. 1: Month name and year
+#: inc/custom-functions.php:396
+msgid "%1$sBrowsing Month%2$s %3$s"
+msgstr "%1$sمرور ماه%2$s %3$s"
+
+#. translators: Monthly archive title. 1: Month name and year
+#: inc/custom-functions.php:393 inc/custom-functions.php:396
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Yearly archive title. 1: Year
+#: inc/custom-functions.php:389
+msgid "%1$sBrowsing Year%2$s %3$s"
+msgstr "%1$sمرور سال%2$s %3$s"
+
+#. translators: Yearly archive title. 1: Year
+#: inc/custom-functions.php:386 inc/custom-functions.php:389
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: Tag archive title. 1: Tag name
+#: inc/custom-functions.php:382
+msgid "%1$sBrowsing Tag%2$s %3$s"
+msgstr "%1$sمرور برچسب%2$s %3$s"
+
+#. translators: Category archive title. 1: Category name
+#: inc/custom-functions.php:375
+msgid "%1$sBrowsing Category%2$s %3$s"
+msgstr "%1$sمرور دسته%2$s %3$s"
+
+#: inc/custom-functions.php:335
+msgid "Comment"
+msgstr "دیدگاه"
+
+#: inc/custom-functions.php:322
+msgid "Website"
+msgstr "وب‌سایت"
+
+#: inc/custom-functions.php:315
+msgid "Email*"
+msgstr "پست الکترونیک*"
+
+#: inc/custom-functions.php:315 inc/custom-functions.php:320
+msgid "Email"
+msgstr "پست الکترونیک"
+
+#: inc/custom-functions.php:314
+msgid "Name*"
+msgstr "نام*"
+
+#: inc/custom-functions.php:314 inc/custom-functions.php:318
+msgid "Name"
+msgstr "نام"
+
+#: inc/custom-functions.php:89
+msgid "Default Header Image"
+msgstr "تصویر سربرگ پیش‌فرض"
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:116
+msgid "Primary"
+msgstr "اصلی"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته‌اند."
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s دیدگاه"
+
+#: 404.php:18
+msgid "Take me to the home page"
+msgstr "مرا به صفحه اصلی ببر"
+
+#: 404.php:17
+msgid "404"
+msgstr "۴۰۴"
+
+#: 404.php:15
+msgid "The page you are looking for may have been removed, deleted, or possibly never existed."
+msgstr "صفحه ای که به دنبال آن هستید شاید حذف شده، پاک شده یا اصلا وجود ندارد."
+
+#: 404.php:13
+msgid "Uh-Oh..."
+msgstr "اوه-اوه..."
+
+#: inc/customizer/frontpage.php:293 inc/partials.php:85
+#: sections/download.php:11
+msgid "Browse All Products"
+msgstr "مرور همه محصولات"
+
+#: inc/customizer/frontpage.php:244 inc/partials.php:76
+#: sections/download.php:10
+msgid "Checkout the latest products to be added to the marketplace, or <a href=\"#\">Click here</a> to view all items."
+msgstr "بررسی کنید آخرین محصولات را برای افزودن به بخش فروش، یا <a href=\"#\"> اینجا کلیک کنید </a> برای نمایش همه موارد."
+
+#: inc/customizer/frontpage.php:220 inc/partials.php:67 sections/download.php:9
+msgid "Recently Added Items"
+msgstr "موارد افزوده شده اخیر"
+
+#: inc/customizer/frontpage.php:145 inc/partials.php:58 sections/banner.php:13
+msgid "See Our Pricing"
+msgstr "قیمت مارا ببینید"
+
+#: inc/customizer/frontpage.php:103 inc/partials.php:49 sections/banner.php:11
+msgid "View All Products"
+msgstr "نمایش همه محصولات"
+
+#: inc/customizer/frontpage.php:79 inc/partials.php:40 sections/banner.php:10
+msgid "Curated Design Resources to Energize Your Creative Workflow."
+msgstr "منابع طراحی منحصر به فرد برای نیرو بخشیدن به گردش کار خلاق شما."
+
+#: inc/customizer/frontpage.php:55 inc/partials.php:31 sections/banner.php:9
+msgid "Most Selective Market of Digital Products for Creatives."
+msgstr "منتخب ترین بازار محصولات دیجیتال برای خلاق ها."
+
+#: templates/dashboard.php:37
+msgid "Account Info"
+msgstr "اطلاعات حساب کاربری"
+
+#: templates/dashboard.php:30
+msgid "Purchase History"
+msgstr "تاریخچه خرید"
+
+#: templates/dashboard.php:23
+msgid "Downloads"
+msgstr "دانلودها"
+
+#. Template Name of the theme
+#: inc/customizer/general.php:170
+msgid "Dashboard Page"
+msgstr "صفحه پیش‌خوان"
+
+#. Template Name of the theme
+#: inc/customizer/general.php:108
+msgid "Login Page"
+msgstr "صفحه ورود"
+
+#: templates/portfolio.php:24
+msgid "All"
+msgstr "همه"
+
+#: templates/portfolio.php:14
+msgid "Browse by :"
+msgstr "مرورکردن توسط :"
+
+#. Template Name of the theme
+msgid "Portfolio Page"
+msgstr "صفحه نمونه کار"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد ما نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "پوزش، اما هیچ‌چیز با موارد جست‌وجوی شما همخوانی نیافت. لطفا با چند کلیدواژهٔ دیگر دوباره تلاش کنید."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/template-functions.php:524
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/digital-download/"
+msgstr "https://rarathemes.com/wordpress-themes/digital-download/"
